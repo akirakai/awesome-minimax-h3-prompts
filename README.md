@@ -20,6 +20,7 @@ A case is included in the main collection only when:
 | fal.ai | Selected cases from a guide containing 44 H3 video examples | [Prompting Guide + 44 Video Examples](https://fal.ai/learn/devs/minimax-h3-prompting-guide) |
 | Morphic | Selected copy-ready H3 prompt briefs with example clips | [MiniMax H3 Prompt Library](https://morphic.com/resources/how-to/minimax-h3-prompts) |
 | Reddit / ComfyUI | H3 video reference with incomplete prompt disclosure | [Original Reddit post](https://www.reddit.com/r/StableDiffusion/comments/1vd9o0r/minimax_h3_1080p_25_seconds_text_to_video_in/) |
+| Daily verified — 2026-08-09 | Player-stats UI, self-drawing field guide, seamless continuation, and full-reference music video | [Daily case file](cases/daily-2026-08-09.md) |
 
 ## Reusable patterns
 
@@ -29,6 +30,8 @@ A case is included in the main collection only when:
 - Direct dialogue, ambience, foley, and non-diegetic music separately.
 - Add continuity constraints and negative constraints where exact identity, text, logos, or geometry matter.
 - For reference workflows, distinguish source footage, reused audio, and voice-timbre references.
+- For UI and design animation, enumerate every locked element and name the reference the sole visual authority.
+- For long-form continuation, combine a short temporal overlap with explicit first-frame continuity wording.
 
 ## Files
 
@@ -36,5 +39,6 @@ A case is included in the main collection only when:
 - [fal.ai selected cases](cases/fal-ai-2026-08-05.md)
 - [Morphic selected cases](cases/morphic-2026-08-05.md)
 - [Reddit / ComfyUI partial reference](cases/reddit-comfyui-2026-08-05.md)
+- [Daily verified cases — 2026-08-09](cases/daily-2026-08-09.md)
 
-Collected: 2026-08-05
+Last collected: 2026-08-09
