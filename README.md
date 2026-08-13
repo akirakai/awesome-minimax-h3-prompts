@@ -22,6 +22,7 @@ A case is included in the main collection only when:
 | Reddit / ComfyUI | H3 video reference with incomplete prompt disclosure | [Original Reddit post](https://www.reddit.com/r/StableDiffusion/comments/1vd9o0r/minimax_h3_1080p_25_seconds_text_to_video_in/) |
 | Daily verified — 2026-08-09 | Player-stats UI, self-drawing field guide, seamless continuation, and full-reference music video | [Daily case file](cases/daily-2026-08-09.md) |
 | Daily verified — 2026-08-10 | Character introduction, two-racer hover-bike chase, and audio-driven beat-synced showcase | [Daily case file](cases/daily-2026-08-10.md) |
+| Daily verified — 2026-08-13 | Sensory beverage ad, concise genre-remix prompt, and folder-driven long-form workflow | [Daily case file](cases/daily-2026-08-13.md) |
 
 ## Reusable patterns
 
@@ -36,6 +37,9 @@ A case is included in the main collection only when:
 - For character introductions, reveal information progressively: signature detail, partial silhouette, face, then full-body design.
 - For multi-vehicle action, bind each rider to a named vehicle with distinct color, silhouette, and spatial role.
 - For music-driven generation, let the image own identity while the audio owns timing, rhythm, performance, and edit cadence.
+- For sensory product ads, pair every timed visual action with a close-mic material sound cue.
+- A concise premise works best when it specifies a source-world grammar, a contrasting presentation format, and one concrete conflict.
+- For long-form work, treat each short scene as an addressable unit with fixed reference IDs, an explicit ending state, and selective regeneration.
 
 ## Files
 
@@ -45,5 +49,6 @@ A case is included in the main collection only when:
 - [Reddit / ComfyUI partial reference](cases/reddit-comfyui-2026-08-05.md)
 - [Daily verified cases — 2026-08-09](cases/daily-2026-08-09.md)
 - [Daily verified cases — 2026-08-10](cases/daily-2026-08-10.md)
+- [Daily verified cases — 2026-08-13](cases/daily-2026-08-13.md)
 
-Last collected: 2026-08-10
+Last collected: 2026-08-13
