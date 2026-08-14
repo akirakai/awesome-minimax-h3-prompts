@@ -23,6 +23,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-09 | Player-stats UI, self-drawing field guide, seamless continuation, and full-reference music video | [Daily case file](cases/daily-2026-08-09.md) |
 | Daily verified — 2026-08-10 | Character introduction, two-racer hover-bike chase, and audio-driven beat-synced showcase | [Daily case file](cases/daily-2026-08-10.md) |
 | Daily verified — 2026-08-13 | Sensory beverage ad, concise genre-remix prompt, and folder-driven long-form workflow | [Daily case file](cases/daily-2026-08-13.md) |
+| Daily verified — 2026-08-14 | Parameterized character reveal, directional stereo audio, surface-specific text reveal, and chained narrative continuity | [Daily case file](cases/daily-2026-08-14.md) |
 
 ## Reusable patterns
 
@@ -40,6 +41,10 @@ A case is included in the main collection only when:
 - For sensory product ads, pair every timed visual action with a close-mic material sound cue.
 - A concise premise works best when it specifies a source-world grammar, a contrasting presentation format, and one concrete conflict.
 - For long-form work, treat each short scene as an addressable unit with fixed reference IDs, an explicit ending state, and selective regeneration.
+- For reusable trailers, separate editable text parameters from a locked directing grammar for cuts, transitions, and reveal order.
+- For stereo-first scenes, establish a neutral acoustic baseline and direct sound-source position, distance, and movement before visual escalation.
+- When opposite surfaces need different text, bind each label to a surface and place a full occlusion between reveals.
+- For chained clips, preserve screen position, travel axis, hand/prop ownership, unfinished secondary actions, end composition, and continuing audio as explicit state.
 
 ## Files
 
@@ -50,5 +55,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-09](cases/daily-2026-08-09.md)
 - [Daily verified cases — 2026-08-10](cases/daily-2026-08-10.md)
 - [Daily verified cases — 2026-08-13](cases/daily-2026-08-13.md)
+- [Daily verified cases — 2026-08-14](cases/daily-2026-08-14.md)
 
-Last collected: 2026-08-13
+Last collected: 2026-08-14
