@@ -24,6 +24,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-10 | Character introduction, two-racer hover-bike chase, and audio-driven beat-synced showcase | [Daily case file](cases/daily-2026-08-10.md) |
 | Daily verified — 2026-08-13 | Sensory beverage ad, concise genre-remix prompt, and folder-driven long-form workflow | [Daily case file](cases/daily-2026-08-13.md) |
 | Daily verified — 2026-08-14 | Parameterized character reveal, directional stereo audio, surface-specific text reveal, and chained narrative continuity | [Daily case file](cases/daily-2026-08-14.md) |
+| Daily verified — 2026-08-15 | Ref2VA performance replacement, timed two-reference handoff, and local multilingual T2VA | [Daily case file](cases/daily-2026-08-15.md) |
 
 ## Reusable patterns
 
@@ -45,6 +46,9 @@ A case is included in the main collection only when:
 - For stereo-first scenes, establish a neutral acoustic baseline and direct sound-source position, distance, and movement before visual escalation.
 - When opposite surfaces need different text, bind each label to a surface and place a full occlusion between reveals.
 - For chained clips, preserve screen position, travel axis, hand/prop ownership, unfinished secondary actions, end composition, and continuing audio as explicit state.
+- For performance replacement, let the source video own motion, camera, timing, and environment while the image owns the replacement identity; re-light the subject and replace contact sounds.
+- When multiple reference characters enter at different times, bind each identity to a named input and use a timed hard cut as the handoff boundary.
+- For multilingual T2VA, place language-tagged dialogue inside its shot block, then direct ambience and non-diegetic music as separate sound layers.
 
 ## Files
 
@@ -56,5 +60,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-10](cases/daily-2026-08-10.md)
 - [Daily verified cases — 2026-08-13](cases/daily-2026-08-13.md)
 - [Daily verified cases — 2026-08-14](cases/daily-2026-08-14.md)
+- [Daily verified cases — 2026-08-15](cases/daily-2026-08-15.md)
 
-Last collected: 2026-08-14
+Last collected: 2026-08-15
