@@ -27,6 +27,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-15 | Ref2VA performance replacement, timed two-reference handoff, and local multilingual T2VA | [Daily case file](cases/daily-2026-08-15.md) |
 | Daily verified — 2026-08-16 | Reference-still prompt reconstruction and timed farmers-market micro-vlog | [Daily case file](cases/daily-2026-08-16.md) |
 | Daily verified — 2026-08-17 | Candid rain-field group motion, mouse-knight realism-slider demos, and a 180-second audio-referenced rock MV | [Daily case file](cases/daily-2026-08-17.md) |
+| Daily verified — 2026-08-18 | Game-sprite animation extraction, exact historical title cards, and image/video/audio cross-shot continuity | [Daily case file](cases/daily-2026-08-18.md) |
 
 ## Reusable patterns
 
@@ -56,6 +57,9 @@ A case is included in the main collection only when:
 - For natural group movement, specify a shared screen direction, keep figures small within a wide environment, and explicitly prevent camera-facing posing.
 - Align a decisive action, shot change, foley peak, and musical accent to one timecoded beat.
 - For long audio-led work, build short Ref2VA segments first and add precisely timed lyric typography only after assembly.
+- For sprite production, generate one isolated action per short clip from the same full-body still and chroma background, then key and assemble the atlas outside H3.
+- For exact title cards, give every allowed string its own time window, stop motion before text appears, include a text-free beat, and explicitly forbid unwanted scripts and invented glyphs.
+- For cross-shot continuity, assign identity, prop, prior-shot look, and audio-bed control to separate references; do not ask a video reference to preserve its grade while also demanding opposite lighting.
 
 ## Files
 
@@ -70,5 +74,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-15](cases/daily-2026-08-15.md)
 - [Daily verified cases — 2026-08-16](cases/daily-2026-08-16.md)
 - [Daily verified cases — 2026-08-17](cases/daily-2026-08-17.md)
+- [Daily verified cases — 2026-08-18](cases/daily-2026-08-18.md)
 
-Last collected: 2026-08-17
+Last collected: 2026-08-18
