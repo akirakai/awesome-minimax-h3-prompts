@@ -28,6 +28,8 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-16 | Reference-still prompt reconstruction and timed farmers-market micro-vlog | [Daily case file](cases/daily-2026-08-16.md) |
 | Daily verified — 2026-08-17 | Candid rain-field group motion, mouse-knight realism-slider demos, and a 180-second audio-referenced rock MV | [Daily case file](cases/daily-2026-08-17.md) |
 | Daily verified — 2026-08-18 | Game-sprite animation extraction, exact historical title cards, and image/video/audio cross-shot continuity | [Daily case file](cases/daily-2026-08-18.md) |
+| Daily verified — 2026-08-21 | Bauhaus typography, a 13-cut dance MG commercial, continuous travel storytelling, and a fantasy transformation | [Daily case file](cases/daily-2026-08-21.md) |
+| Daily verified — 2026-08-22 | Storyboard-guided cooking, readable process explainers, and pre-generated branching narratives | [Daily case file](cases/daily-2026-08-22.md) |
 
 ## Reusable patterns
 
@@ -60,6 +62,13 @@ A case is included in the main collection only when:
 - For sprite production, generate one isolated action per short clip from the same full-body still and chroma background, then key and assemble the atlas outside H3.
 - For exact title cards, give every allowed string its own time window, stop motion before text appears, include a text-free beat, and explicitly forbid unwanted scripts and invented glyphs.
 - For cross-shot continuity, assign identity, prop, prior-shot look, and audio-bed control to separate references; do not ask a video reference to preserve its grade while also demanding opposite lighting.
+- For kinetic typography, divide the duration into fixed cut windows and protect readability, kerning, allowed words, palette, and overlap order explicitly.
+- For dense motion-graphics commercials, lock one visual grammar globally, then make each timecoded composition distinct while keeping character, palette, text vocabulary, Foley, and musical climax consistent.
+- For continuous travel or wildlife micro-stories, write a causal action chain and direct human, vehicle, animal, environmental, dialogue, and ambience physics together.
+- For transformations, specify an exact before-state, visible transition bridge, parallel costume/prop mappings, and an exact after-state composition.
+- For storyboard control, say that panels are sequential beats and explicitly forbid treating the board as one static composition; bind identity to a separate character reference.
+- For process explainers, preserve object state across steps and combine the action chain with a beginning/climax/end arc and explicit typography rules.
+- For branching narratives, use each accepted parent clip’s final frame as every child’s exact first frame, keep branches independently promptable, and preload alternatives before the choice point.
 
 ## Files
 
@@ -75,5 +84,7 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-16](cases/daily-2026-08-16.md)
 - [Daily verified cases — 2026-08-17](cases/daily-2026-08-17.md)
 - [Daily verified cases — 2026-08-18](cases/daily-2026-08-18.md)
+- [Daily verified cases — 2026-08-21](cases/daily-2026-08-21.md)
+- [Daily verified cases — 2026-08-22](cases/daily-2026-08-22.md)
 
-Last collected: 2026-08-18
+Last collected: 2026-08-22
