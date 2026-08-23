@@ -30,6 +30,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-18 | Game-sprite animation extraction, exact historical title cards, and image/video/audio cross-shot continuity | [Daily case file](cases/daily-2026-08-18.md) |
 | Daily verified — 2026-08-21 | Bauhaus typography, a 13-cut dance MG commercial, continuous travel storytelling, and a fantasy transformation | [Daily case file](cases/daily-2026-08-21.md) |
 | Daily verified — 2026-08-22 | Storyboard-guided cooking, readable process explainers, and pre-generated branching narratives | [Daily case file](cases/daily-2026-08-22.md) |
+| Daily verified — 2026-08-23 | Character-board role switching and a timecoded futuristic-skateboard montage | [Daily case file](cases/daily-2026-08-23.md) |
 
 ## Reusable patterns
 
@@ -69,6 +70,8 @@ A case is included in the main collection only when:
 - For storyboard control, say that panels are sequential beats and explicitly forbid treating the board as one static composition; bind identity to a separate character reference.
 - For process explainers, preserve object state across steps and combine the action chain with a beginning/climax/end arc and explicit typography rules.
 - For branching narratives, use each accepted parent clip’s final frame as every child’s exact first frame, keep branches independently promptable, and preload alternatives before the choice point.
+- When one character board serves two jobs, make its role mutually exclusive: animate the board in place while locking the grid, or use it as an identity/environment source for an independent scene.
+- For a dense 15-second action montage, alternate contact-level, subject-level, and architecture-level shots; admit a secondary performer only inside a short, explicitly bounded beat.
 
 ## Files
 
@@ -86,5 +89,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-18](cases/daily-2026-08-18.md)
 - [Daily verified cases — 2026-08-21](cases/daily-2026-08-21.md)
 - [Daily verified cases — 2026-08-22](cases/daily-2026-08-22.md)
+- [Daily verified cases — 2026-08-23](cases/daily-2026-08-23.md)
 
-Last collected: 2026-08-22
+Last collected: 2026-08-23
