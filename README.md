@@ -31,6 +31,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-21 | Bauhaus typography, a 13-cut dance MG commercial, continuous travel storytelling, and a fantasy transformation | [Daily case file](cases/daily-2026-08-21.md) |
 | Daily verified — 2026-08-22 | Storyboard-guided cooking, readable process explainers, and pre-generated branching narratives | [Daily case file](cases/daily-2026-08-22.md) |
 | Daily verified — 2026-08-23 | Character-board role switching and a timecoded futuristic-skateboard montage | [Daily case file](cases/daily-2026-08-23.md) |
+| Daily verified — 2026-08-24 | Synchronized-viewpoint and physical-causality benchmarks, plus compact symbol-table dialogue | [Daily case file](cases/daily-2026-08-24.md) |
 
 ## Reusable patterns
 
@@ -72,6 +73,9 @@ A case is included in the main collection only when:
 - For branching narratives, use each accepted parent clip’s final frame as every child’s exact first frame, keep branches independently promptable, and preload alternatives before the choice point.
 - When one character board serves two jobs, make its role mutually exclusive: animate the board in place while locking the grid, or use it as an identity/environment source for an independent scene.
 - For a dense 15-second action montage, alternate contact-level, subject-level, and architecture-level shots; admit a secondary performer only inside a short, explicitly bounded beat.
+- For synchronized multi-angle output, assign every panel, bind all panels to one event clock, and state that only the viewpoint changes.
+- When the camera itself moves, distinguish observer, camera body, subject, and world; specify the camera's trigger, rotation and final orientation while locking the world's frame of reference.
+- For compact sequential dialogue, define subject and line symbols once, define the shared scene once, then make each shot a single speaker-to-line binding.
 
 ## Files
 
@@ -90,5 +94,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-21](cases/daily-2026-08-21.md)
 - [Daily verified cases — 2026-08-22](cases/daily-2026-08-22.md)
 - [Daily verified cases — 2026-08-23](cases/daily-2026-08-23.md)
+- [Daily verified cases — 2026-08-24](cases/daily-2026-08-24.md)
 
-Last collected: 2026-08-23
+Last collected: 2026-08-24
