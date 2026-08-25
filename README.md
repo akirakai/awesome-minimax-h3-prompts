@@ -32,6 +32,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-22 | Storyboard-guided cooking, readable process explainers, and pre-generated branching narratives | [Daily case file](cases/daily-2026-08-22.md) |
 | Daily verified — 2026-08-23 | Character-board role switching and a timecoded futuristic-skateboard montage | [Daily case file](cases/daily-2026-08-23.md) |
 | Daily verified — 2026-08-24 | Synchronized-viewpoint and physical-causality benchmarks, plus compact symbol-table dialogue | [Daily case file](cases/daily-2026-08-24.md) |
+| Daily verified — 2026-08-25 | Audio-locked lyric MG, an automated food-storyboard pipeline, and voice-reference dialogue cleanup | [Daily case file](cases/daily-2026-08-25.md) |
 
 ## Reusable patterns
 
@@ -76,6 +77,9 @@ A case is included in the main collection only when:
 - For synchronized multi-angle output, assign every panel, bind all panels to one event clock, and state that only the viewpoint changes.
 - When the camera itself moves, distinguish observer, camera body, subject, and world; specify the camera's trigger, rotation and final orientation while locking the world's frame of reference.
 - For compact sequential dialogue, define subject and line symbols once, define the shared scene once, then make each shot a single speaker-to-line binding.
+- For audio-locked motion graphics, let one unchanged audio file own duration and beat timing while one character sheet owns identity and style; freeze the palette before writing individual beats.
+- For automated storyboard generation, isolate semantic planning, visual panel generation, and H3 rendering; pass one ordered panel sheet forward as a narrowly assigned composition-and-sequence reference.
+- For voice-referenced dialogue, bind speaker ID, voice-only audio reference, exact utterance, and minimal ambience separately; keep official dialogue tags available as the primary path.
 
 ## Files
 
@@ -95,5 +99,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-22](cases/daily-2026-08-22.md)
 - [Daily verified cases — 2026-08-23](cases/daily-2026-08-23.md)
 - [Daily verified cases — 2026-08-24](cases/daily-2026-08-24.md)
+- [Daily verified cases — 2026-08-25](cases/daily-2026-08-25.md)
 
-Last collected: 2026-08-24
+Last collected: 2026-08-25
