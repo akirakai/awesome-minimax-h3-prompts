@@ -32,7 +32,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-22 | Storyboard-guided cooking, readable process explainers, and pre-generated branching narratives | [Daily case file](cases/daily-2026-08-22.md) |
 | Daily verified — 2026-08-23 | Character-board role switching and a timecoded futuristic-skateboard montage | [Daily case file](cases/daily-2026-08-23.md) |
 | Daily verified — 2026-08-24 | Synchronized-viewpoint and physical-causality benchmarks, plus compact symbol-table dialogue | [Daily case file](cases/daily-2026-08-24.md) |
-| Daily verified — 2026-08-25 | Audio-locked lyric MG, an automated food-storyboard pipeline, and voice-reference dialogue cleanup | [Daily case file](cases/daily-2026-08-25.md) |
+| Daily verified — 2026-08-25 | Audio-locked lyric MG, an automated food-storyboard pipeline, and voice-reference dialogue cleanup | [Daily case file](cases/daily-2026-08-25.md) |\n| Daily verified — 2026-08-26 | City-map assembly, anime identity transformations, multi-window cooking, H3 MAX reveals/timelapse, pseudo-mocap, and long-form lip sync | [Daily case file](cases/daily-2026-08-26.md) |
 
 ## Reusable patterns
 
@@ -79,7 +79,7 @@ A case is included in the main collection only when:
 - For compact sequential dialogue, define subject and line symbols once, define the shared scene once, then make each shot a single speaker-to-line binding.
 - For audio-locked motion graphics, let one unchanged audio file own duration and beat timing while one character sheet owns identity and style; freeze the palette before writing individual beats.
 - For automated storyboard generation, isolate semantic planning, visual panel generation, and H3 rendering; pass one ordered panel sheet forward as a narrowly assigned composition-and-sequence reference.
-- For voice-referenced dialogue, bind speaker ID, voice-only audio reference, exact utterance, and minimal ambience separately; keep official dialogue tags available as the primary path.
+- For voice-referenced dialogue, bind speaker ID, voice-only audio reference, exact utterance, and minimal ambience separately; keep official dialogue tags available as the primary path.\n- For variable-driven city-map videos, keep the assembly grammar fixed, substitute one location variable, alternate fast travel with landmark pauses, and delay the place-name title until the final pullback.\n- For multi-identity fashion films, lock facial identity globally but remap silhouette, palette, motion vocabulary, and attitude per chapter; bridge chapters with object-driven transitions instead of direct character morphing.\n- For long material processes, preserve object state across independently generated windows and pair every visible physical change with matching close-up evidence and Foley.\n- For short suspense reveals, insert reaction coverage between setup and payoff, and escalate ambience, fracture Foley, alarm, and dialogue on the same visual beats.\n- For compressed day-to-night scenes, hold lens treatment and framing constant while traffic, crowds, shadows, clouds, windows, and reflections reveal the passage of time.\n- For split-screen pseudo-mocap, put both panels on one event clock, repeat the shared gesture/dialogue beats exactly, and preserve each environment independently.\n- For long-form lip sync, segment the audio into independently regenerable clips, reuse identity and clothing references, and tune segment length against resolution, render time, and drift.
 
 ## Files
 
@@ -99,6 +99,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-22](cases/daily-2026-08-22.md)
 - [Daily verified cases — 2026-08-23](cases/daily-2026-08-23.md)
 - [Daily verified cases — 2026-08-24](cases/daily-2026-08-24.md)
-- [Daily verified cases — 2026-08-25](cases/daily-2026-08-25.md)
+- [Daily verified cases — 2026-08-25](cases/daily-2026-08-25.md)\n- [Daily verified cases — 2026-08-26](cases/daily-2026-08-26.md)
 
-Last collected: 2026-08-25
+Last collected: 2026-08-26
