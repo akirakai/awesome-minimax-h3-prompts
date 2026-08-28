@@ -35,6 +35,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-25 | Audio-locked lyric MG, an automated food-storyboard pipeline, and voice-reference dialogue cleanup | [Daily case file](cases/daily-2026-08-25.md) |
 | Daily verified — 2026-08-26 | City-map assembly, anime identity transformations, multi-window cooking, H3 MAX reveals/timelapse, pseudo-mocap, and long-form lip sync | [Daily case file](cases/daily-2026-08-26.md) |
 | Daily verified — 2026-08-27 | Particle-built samurai, sound-to-glyph abstract narrative, vertical curry story ad, and brand-board kinetic TVCM | [Daily case file](cases/daily-2026-08-27.md) |
+| Daily verified — 2026-08-28 | Spoiler-safe anime-template transfer, Foley-synced wuxia type, illustration timelapse, product-locked UGC, cooking continuity, and an auto-prompt Ref2VA workflow | [Daily case file](cases/daily-2026-08-28.md) |
 
 ## Reusable patterns
 
@@ -93,6 +94,12 @@ A case is included in the main collection only when:
 - For audio-controlled typography, use a closed glyph vocabulary, define one sound-to-glyph mapping, and specify the exact expansion order of compound utterances.
 - For 15-second origin-story ads, give each narrative chapter one palette field, one causal action, and one text payload; hold the final offer card still.
 - For brand-board animation, bind identity, approved copy, and graphic grammar separately, then use the board’s existing marks and shapes as transition devices.
+- For reusable “guess the source” openings, keep the reveal grammar fixed while the source-title variable drives spoiler-safe clue extraction, palette, texture, and transition language.
+- For Foley-driven typography, use a closed text ledger and give every title a physical sound source; time anticipation, contact, and immediate type/camera/mask response to the transient.
+- For procedural drawing, specify coarse-to-fine state transitions—pose, line art, flat color, shading, highlights, and exact target match—while keeping the soundscape deliberately minimal.
+- For reference-product advertising, declare a sole product authority before the timeline and assign each shot one consistency-inspection job.
+- For cooking micro-stories, preserve character and set globally, carry ingredient state forward between scenes, and reserve the final beat for tasting or another visible payoff.
+- For automated Ref2VA graphs, validate binding and motion at low pixel count before scaling resolution; keep the Turbo LoRA paired with its intended sampler and audio-clock setup.
 
 ## Files
 
@@ -115,5 +122,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-25](cases/daily-2026-08-25.md)
 - [Daily verified cases — 2026-08-26](cases/daily-2026-08-26.md)
 - [Daily verified cases — 2026-08-27](cases/daily-2026-08-27.md)
+- [Daily verified cases — 2026-08-28](cases/daily-2026-08-28.md)
 
-Last collected: 2026-08-27
+Last collected: 2026-08-28
