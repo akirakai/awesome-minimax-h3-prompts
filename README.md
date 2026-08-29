@@ -36,6 +36,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-26 | City-map assembly, anime identity transformations, multi-window cooking, H3 MAX reveals/timelapse, pseudo-mocap, and long-form lip sync | [Daily case file](cases/daily-2026-08-26.md) |
 | Daily verified — 2026-08-27 | Particle-built samurai, sound-to-glyph abstract narrative, vertical curry story ad, and brand-board kinetic TVCM | [Daily case file](cases/daily-2026-08-27.md) |
 | Daily verified — 2026-08-28 | Spoiler-safe anime-template transfer, Foley-synced wuxia type, illustration timelapse, product-locked UGC, cooking continuity, and an auto-prompt Ref2VA workflow | [Daily case file](cases/daily-2026-08-28.md) |
+| Daily verified — 2026-08-29 | Hair-led anime MV continuity, chibi emotion state chains, final-frame continuation, giant-scale fashion grammar, and IPA-controlled accents | [Daily case file](cases/daily-2026-08-29.md) |
 
 ## Reusable patterns
 
@@ -100,6 +101,11 @@ A case is included in the main collection only when:
 - For reference-product advertising, declare a sole product authority before the timeline and assign each shot one consistency-inspection job.
 - For cooking micro-stories, preserve character and set globally, carry ingredient state forward between scenes, and reserve the final beat for tasting or another visible payoff.
 - For automated Ref2VA graphs, validate binding and motion at low pixel count before scaling resolution; keep the Turbo LoRA paired with its intended sampler and audio-clock setup.
+- For dense character MVs, reuse one signature silhouette element as performance motion, occlusion, transition, framing, and the bridge into detail inserts.
+- For sequential emotion transformations, define a one-way state machine and give each state its own proportions, pose, motion grammar, symbols, palette, and exact label.
+- For documentary continuation, combine the previous clip’s final frame with a restated ledger for identity, wardrobe, body angle, unfinished action, location, light, lens behavior, motion rhythm, and ambience.
+- For giant-scale fashion films, include one scale proof in every shot and make each aggressive camera move settle into a clean editorial composition.
+- For experimental accent control, keep the semantic language tag fixed, place IPA inside the dialogue payload, and state the target accent outside it; test phoneme clusters before trusting a long line.
 
 ## Files
 
@@ -123,5 +129,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-26](cases/daily-2026-08-26.md)
 - [Daily verified cases — 2026-08-27](cases/daily-2026-08-27.md)
 - [Daily verified cases — 2026-08-28](cases/daily-2026-08-28.md)
+- [Daily verified cases — 2026-08-29](cases/daily-2026-08-29.md)
 
-Last collected: 2026-08-28
+Last collected: 2026-08-29
