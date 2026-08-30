@@ -37,6 +37,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-27 | Particle-built samurai, sound-to-glyph abstract narrative, vertical curry story ad, and brand-board kinetic TVCM | [Daily case file](cases/daily-2026-08-27.md) |
 | Daily verified — 2026-08-28 | Spoiler-safe anime-template transfer, Foley-synced wuxia type, illustration timelapse, product-locked UGC, cooking continuity, and an auto-prompt Ref2VA workflow | [Daily case file](cases/daily-2026-08-28.md) |
 | Daily verified — 2026-08-29 | Hair-led anime MV continuity, chibi emotion state chains, final-frame continuation, giant-scale fashion grammar, and IPA-controlled accents | [Daily case file](cases/daily-2026-08-29.md) |
+| Daily verified — 2026-08-30 | One-take pose choreography, a shared-style gouache anthology, and chunk-directed long video on 16 GB VRAM | [Daily case file](cases/daily-2026-08-30.md) |
 
 ## Reusable patterns
 
@@ -106,6 +107,9 @@ A case is included in the main collection only when:
 - For documentary continuation, combine the previous clip’s final frame with a restated ledger for identity, wardrobe, body angle, unfinished action, location, light, lens behavior, motion rhythm, and ambience.
 - For giant-scale fashion films, include one scale proof in every shot and make each aggressive camera move settle into a clean editorial composition.
 - For experimental accent control, keep the semantic language tag fixed, place IPA inside the dialogue payload, and state the target accent outside it; test phoneme clusters before trusting a long line.
+- For continuous fashion posing, assign every pose an entry path and a short locked hold, then repeat an accelerate-to-transition and brake-to-lock rhythm instead of relying on cuts.
+- For independent clips that must feel like one anthology, lock medium, edge quality, texture, palette, contrast, and sound philosophy globally while giving each clip its own action metaphor and final reversal.
+- For memory-bounded long generation, keep a master timeline separate from local chunk prompts, carry a temporal overlap plus the exact boundary frame, and persist every rewritten per-chunk prompt beside the assembled video.
 
 ## Files
 
@@ -130,5 +134,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-27](cases/daily-2026-08-27.md)
 - [Daily verified cases — 2026-08-28](cases/daily-2026-08-28.md)
 - [Daily verified cases — 2026-08-29](cases/daily-2026-08-29.md)
+- [Daily verified cases — 2026-08-30](cases/daily-2026-08-30.md)
 
-Last collected: 2026-08-29
+Last collected: 2026-08-30
