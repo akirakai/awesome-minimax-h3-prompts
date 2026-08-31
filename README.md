@@ -38,6 +38,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-28 | Spoiler-safe anime-template transfer, Foley-synced wuxia type, illustration timelapse, product-locked UGC, cooking continuity, and an auto-prompt Ref2VA workflow | [Daily case file](cases/daily-2026-08-28.md) |
 | Daily verified — 2026-08-29 | Hair-led anime MV continuity, chibi emotion state chains, final-frame continuation, giant-scale fashion grammar, and IPA-controlled accents | [Daily case file](cases/daily-2026-08-29.md) |
 | Daily verified — 2026-08-30 | One-take pose choreography, a shared-style gouache anthology, and chunk-directed long video on 16 GB VRAM | [Daily case file](cases/daily-2026-08-30.md) |
+| Daily verified — 2026-08-31 | A reusable food-ad grammar, exercise-biomechanics prompting, crowd-motion diagnosis, and selective performance transfer | [Daily case file](cases/daily-2026-08-31.md) |
 
 ## Reusable patterns
 
@@ -110,6 +111,10 @@ A case is included in the main collection only when:
 - For continuous fashion posing, assign every pose an entry path and a short locked hold, then repeat an accelerate-to-transition and brake-to-lock rhythm instead of relying on cuts.
 - For independent clips that must feel like one anthology, lock medium, edge quality, texture, palette, contrast, and sound philosophy globally while giving each clip its own action metaphor and final reversal.
 - For memory-bounded long generation, keep a master timeline separate from local chunk prompts, carry a temporal overlap plus the exact boundary frame, and persist every rewritten per-chunk prompt beside the assembled video.
+- For reusable food advertising, keep a fixed progression from sensory macro evidence through an ordered exploded stack and depth-aware typography to rapid reassembly and a motionless hero frame.
+- For exercise videos, define the initiating joint, equipment contact points, one complete repetition, the camera coverage needed to judge form, and the incorrect movement substitutions to reject.
+- For crowded static scenes, enumerate simultaneous micro-actions and state camera immobility directly before spending more steps or resolution on a vague event-level prompt.
+- For selective performance transfer, name the retained person, explicitly ignore every other performer, assign the environment to a separate reference, and carry one accepted seed from cheap preview to full-step render.
 
 ## Files
 
@@ -135,5 +140,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-28](cases/daily-2026-08-28.md)
 - [Daily verified cases — 2026-08-29](cases/daily-2026-08-29.md)
 - [Daily verified cases — 2026-08-30](cases/daily-2026-08-30.md)
+- [Daily verified cases — 2026-08-31](cases/daily-2026-08-31.md)
 
-Last collected: 2026-08-30
+Last collected: 2026-08-31
