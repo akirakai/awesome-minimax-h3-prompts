@@ -39,6 +39,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-29 | Hair-led anime MV continuity, chibi emotion state chains, final-frame continuation, giant-scale fashion grammar, and IPA-controlled accents | [Daily case file](cases/daily-2026-08-29.md) |
 | Daily verified — 2026-08-30 | One-take pose choreography, a shared-style gouache anthology, and chunk-directed long video on 16 GB VRAM | [Daily case file](cases/daily-2026-08-30.md) |
 | Daily verified — 2026-08-31 | A reusable food-ad grammar, exercise-biomechanics prompting, crowd-motion diagnosis, and selective performance transfer | [Daily case file](cases/daily-2026-08-31.md) |
+| Daily verified — 2026-09-01 | Miniature food construction, screen-to-world transformation, a 13-cut anime MG trailer, and reference-authority dialogue acting | [Daily case file](cases/daily-2026-09-01.md) |
 
 ## Reusable patterns
 
@@ -115,6 +116,10 @@ A case is included in the main collection only when:
 - For exercise videos, define the initiating joint, equipment contact points, one complete repetition, the camera coverage needed to judge form, and the incorrect movement substitutions to reject.
 - For crowded static scenes, enumerate simultaneous micro-actions and state camera immobility directly before spending more steps or resolution on a vague event-level prompt.
 - For selective performance transfer, name the retained person, explicitly ignore every other performer, assign the environment to a separate reference, and carry one accepted seed from cheap preview to full-step render.
+- For miniature product construction, assign each component to a machine whose physical affordance matches the placement action, keep one causal build order, and end on a motionless inspection shot.
+- For screen-to-world transformations, lock the physical anchor, define a representation ladder from primitive graphics to photorealism, make the transition cross a material boundary, and name what remains unchanged.
+- For dense multi-cut motion graphics, pair one global identity/design ledger with a cut ledger that gives every beat one action, readable word, framing idea, and transition.
+- For multimodal character acting, give image, audio, video, and text mutually explicit ownership, reject incidental properties from each reference, and attach reactions to exact dialogue phrases.
 
 ## Files
 
@@ -141,5 +146,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-29](cases/daily-2026-08-29.md)
 - [Daily verified cases — 2026-08-30](cases/daily-2026-08-30.md)
 - [Daily verified cases — 2026-08-31](cases/daily-2026-08-31.md)
+- [Daily verified cases — 2026-09-01](cases/daily-2026-09-01.md)
 
-Last collected: 2026-08-31
+Last collected: 2026-09-01
