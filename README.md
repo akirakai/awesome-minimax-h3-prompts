@@ -39,7 +39,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-29 | Hair-led anime MV continuity, chibi emotion state chains, final-frame continuation, giant-scale fashion grammar, and IPA-controlled accents | [Daily case file](cases/daily-2026-08-29.md) |
 | Daily verified — 2026-08-30 | One-take pose choreography, a shared-style gouache anthology, and chunk-directed long video on 16 GB VRAM | [Daily case file](cases/daily-2026-08-30.md) |
 | Daily verified — 2026-08-31 | A reusable food-ad grammar, exercise-biomechanics prompting, crowd-motion diagnosis, and selective performance transfer | [Daily case file](cases/daily-2026-08-31.md) |
-| Daily verified — 2026-09-01 | Miniature food construction, screen-to-world transformation, a 13-cut anime MG trailer, and reference-authority dialogue acting | [Daily case file](cases/daily-2026-09-01.md) |
+| Daily verified — 2026-09-01 | Miniature food construction, screen-to-world transformation, a 13-cut anime MG trailer, and reference-authority dialogue acting | [Daily case file](cases/daily-2026-09-01.md) |\n| Daily verified — 2026-09-02 | Material-built city travel, cursor-causal character creation, and a reproducible base-H3 FL2VA benchmark | [Daily case file](cases/daily-2026-09-02.md) |
 
 ## Reusable patterns
 
@@ -119,7 +119,7 @@ A case is included in the main collection only when:
 - For miniature product construction, assign each component to a machine whose physical affordance matches the placement action, keep one causal build order, and end on a motionless inspection shot.
 - For screen-to-world transformations, lock the physical anchor, define a representation ladder from primitive graphics to photorealism, make the transition cross a material boundary, and name what remains unchanged.
 - For dense multi-cut motion graphics, pair one global identity/design ledger with a cut ledger that gives every beat one action, readable word, framing idea, and transition.
-- For multimodal character acting, give image, audio, video, and text mutually explicit ownership, reject incidental properties from each reference, and attach reactions to exact dialogue phrases.
+- For multimodal character acting, give image, audio, video, and text mutually explicit ownership, reject incidental properties from each reference, and attach reactions to exact dialogue phrases.\n- For material-built city films, separate place and tagline variables from a fixed material-motion grammar, reveal several landmarks along one continuous path, and reserve the wide poster view for the end.\n- For cursor-driven process videos, make each visible state change causally follow an interface action, use the reference only as the final target, and forbid instant transformations that skip intermediate evidence.\n- For reproducible workflow benchmarks, lock the prompt, seed, model family, graph, dimensions, frame count, frame rate, duration, and audio policy before comparing speed or quality.
 
 ## Files
 
@@ -146,6 +146,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-29](cases/daily-2026-08-29.md)
 - [Daily verified cases — 2026-08-30](cases/daily-2026-08-30.md)
 - [Daily verified cases — 2026-08-31](cases/daily-2026-08-31.md)
-- [Daily verified cases — 2026-09-01](cases/daily-2026-09-01.md)
+- [Daily verified cases — 2026-09-01](cases/daily-2026-09-01.md)\n- [Daily verified cases — 2026-09-02](cases/daily-2026-09-02.md)
 
-Last collected: 2026-09-01
+Last collected: 2026-09-02
