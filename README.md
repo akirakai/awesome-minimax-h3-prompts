@@ -39,8 +39,10 @@ A case is included in the main collection only when:
 | Daily verified — 2026-08-29 | Hair-led anime MV continuity, chibi emotion state chains, final-frame continuation, giant-scale fashion grammar, and IPA-controlled accents | [Daily case file](cases/daily-2026-08-29.md) |
 | Daily verified — 2026-08-30 | One-take pose choreography, a shared-style gouache anthology, and chunk-directed long video on 16 GB VRAM | [Daily case file](cases/daily-2026-08-30.md) |
 | Daily verified — 2026-08-31 | A reusable food-ad grammar, exercise-biomechanics prompting, crowd-motion diagnosis, and selective performance transfer | [Daily case file](cases/daily-2026-08-31.md) |
-| Daily verified — 2026-09-01 | Miniature food construction, screen-to-world transformation, a 13-cut anime MG trailer, and reference-authority dialogue acting | [Daily case file](cases/daily-2026-09-01.md) |\n| Daily verified — 2026-09-02 | Material-built city travel, cursor-causal character creation, and a reproducible base-H3 FL2VA benchmark | [Daily case file](cases/daily-2026-09-02.md) |
+| Daily verified — 2026-09-01 | Miniature food construction, screen-to-world transformation, a 13-cut anime MG trailer, and reference-authority dialogue acting | [Daily case file](cases/daily-2026-09-01.md) |
+| Daily verified — 2026-09-02 | Material-built city travel, cursor-causal character creation, and a reproducible base-H3 FL2VA benchmark | [Daily case file](cases/daily-2026-09-02.md) |
 | Daily verified — 2026-09-03 | Hand-built reference reconstruction, a rivalry-to-duet cartoon, first-person continuity, a fully disclosed spell scene, and a portable character-asset pipeline | [Daily case file](cases/daily-2026-09-03.md) |
+| Daily verified — 2026-09-04 | Physical-comedy realism, digital character assembly, contact-proof stunt prompting, a fire-symbol escalation, and masked base-H3 video editing | [Daily case file](cases/daily-2026-09-04.md) |
 
 ## Reusable patterns
 
@@ -120,13 +122,22 @@ A case is included in the main collection only when:
 - For miniature product construction, assign each component to a machine whose physical affordance matches the placement action, keep one causal build order, and end on a motionless inspection shot.
 - For screen-to-world transformations, lock the physical anchor, define a representation ladder from primitive graphics to photorealism, make the transition cross a material boundary, and name what remains unchanged.
 - For dense multi-cut motion graphics, pair one global identity/design ledger with a cut ledger that gives every beat one action, readable word, framing idea, and transition.
-- For multimodal character acting, give image, audio, video, and text mutually explicit ownership, reject incidental properties from each reference, and attach reactions to exact dialogue phrases.\n- For material-built city films, separate place and tagline variables from a fixed material-motion grammar, reveal several landmarks along one continuous path, and reserve the wide poster view for the end.\n- For cursor-driven process videos, make each visible state change causally follow an interface action, use the reference only as the final target, and forbid instant transformations that skip intermediate evidence.\n- For reproducible workflow benchmarks, lock the prompt, seed, model family, graph, dimensions, frame count, frame rate, duration, and audio policy before comparing speed or quality.
+- For multimodal character acting, give image, audio, video, and text mutually explicit ownership, reject incidental properties from each reference, and attach reactions to exact dialogue phrases.
+- For material-built city films, separate place and tagline variables from a fixed material-motion grammar, reveal several landmarks along one continuous path, and reserve the wide poster view for the end.
+- For cursor-driven process videos, make each visible state change causally follow an interface action, use the reference only as the final target, and forbid instant transformations that skip intermediate evidence.
+- For reproducible workflow benchmarks, lock the prompt, seed, model family, graph, dimensions, frame count, frame rate, duration, and audio policy before comparing speed or quality.
 
 - For hand-built timelapses, assign the reference only final-state authority, keep every new component visibly hand-controlled, and allow cuts only after completed operations with exact state inheritance.
 - For two-character rivalry sequences, keep separate identity, palette, personality, and secondary-motion ledgers; merge the visual worlds only after a clear synchronization beat.
 - For first-person sequences, define camera ownership, allowed body/reflection evidence, and forbidden perspective violations before writing scene changes.
 - For large effects, separate anticipation, release, visual confirmation, and delayed physical consequence; let light, shadows, sound, camera, cloth, and body react on deliberately different clocks.
 - For reusable character assets, audition cheaply, package face/body/voice evidence, render a higher-quality turnaround only after approval, then choose still or video references according to the scene’s needs.
+
+- For physical-comedy realism, define one controlled contradiction and make every gag proceed through visible prop contact, failed attempts, recovery actions, and grounded location sound.
+- For digital assembly reveals, let the reference own the final identity and use a clear representation ladder from blueprint evidence through partial structure, surface construction, and final polish.
+- For repeated equipment stunts, define one invariant contact–compression–release–flight–landing cycle and keep the camera stable enough to verify every repetition.
+- For symbolic transformations, reuse one motif at increasing scales and attach every escalation to a visible cause; strictly bound any temporary duplicate or alternate form in time.
+- For masked video editing, assign tracking to the mask system, appearance to the replacement reference, motion and untouched regions to the source video, and the requested change to the text prompt.
 
 ## Files
 
@@ -153,7 +164,9 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-08-29](cases/daily-2026-08-29.md)
 - [Daily verified cases — 2026-08-30](cases/daily-2026-08-30.md)
 - [Daily verified cases — 2026-08-31](cases/daily-2026-08-31.md)
-- [Daily verified cases — 2026-09-01](cases/daily-2026-09-01.md)\n- [Daily verified cases — 2026-09-02](cases/daily-2026-09-02.md)
+- [Daily verified cases — 2026-09-01](cases/daily-2026-09-01.md)
+- [Daily verified cases — 2026-09-02](cases/daily-2026-09-02.md)
 - [Daily verified cases — 2026-09-03](cases/daily-2026-09-03.md)
+- [Daily verified cases — 2026-09-04](cases/daily-2026-09-04.md)
 
-Last collected: 2026-09-03
+Last collected: 2026-09-04
