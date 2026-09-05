@@ -140,6 +140,10 @@ A case is included in the main collection only when:
 - For symbolic transformations, reuse one motif at increasing scales and attach every escalation to a visible cause; strictly bound any temporary duplicate or alternate form in time.
 - For masked video editing, assign tracking to the mask system, appearance to the replacement reference, motion and untouched regions to the source video, and the requested change to the text prompt.
 
+- For reference-led character promos, alternate identity-proof inserts with action beats while a closed typography and icon ledger owns the design system.
+- For reactive computer-vision overlays, constrain box count, scale tiers, coverage, update ratio, beat triggers, mask locality, and the exact properties that must remain photographic.
+- For restrained suspense, quantify inner pressure, outward display, and self-control, then let sound removal, lighting changes, object release, eyeline, and blocking carry the emotional turn.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -169,5 +173,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-02](cases/daily-2026-09-02.md)
 - [Daily verified cases — 2026-09-03](cases/daily-2026-09-03.md)
 - [Daily verified cases — 2026-09-04](cases/daily-2026-09-04.md)
+- [Daily verified cases — 2026-09-05](cases/daily-2026-09-05.md)
 
-Last collected: 2026-09-04
+Last collected: 2026-09-05
