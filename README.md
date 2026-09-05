@@ -42,7 +42,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-01 | Miniature food construction, screen-to-world transformation, a 13-cut anime MG trailer, and reference-authority dialogue acting | [Daily case file](cases/daily-2026-09-01.md) |
 | Daily verified — 2026-09-02 | Material-built city travel, cursor-causal character creation, and a reproducible base-H3 FL2VA benchmark | [Daily case file](cases/daily-2026-09-02.md) |
 | Daily verified — 2026-09-03 | Hand-built reference reconstruction, a rivalry-to-duet cartoon, first-person continuity, a fully disclosed spell scene, and a portable character-asset pipeline | [Daily case file](cases/daily-2026-09-03.md) |
-| Daily verified — 2026-09-04 | Physical-comedy realism, digital character assembly, contact-proof stunt prompting, a fire-symbol escalation, and masked base-H3 video editing | [Daily case file](cases/daily-2026-09-04.md) |
+| Daily verified — 2026-09-04 | Physical-comedy realism, digital character assembly, contact-proof stunt prompting, a fire-symbol escalation, and masked base-H3 video editing | [Daily case file](cases/daily-2026-09-04.md) |\n| Daily verified — 2026-09-05 | Y2K arcade anime promotion, continuously tracked brutalist dance, and performance-controlled nightclub suspense | [Daily case file](cases/daily-2026-09-05.md) |
 
 ## Reusable patterns
 
