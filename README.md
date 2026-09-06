@@ -44,6 +44,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-03 | Hand-built reference reconstruction, a rivalry-to-duet cartoon, first-person continuity, a fully disclosed spell scene, and a portable character-asset pipeline | [Daily case file](cases/daily-2026-09-03.md) |
 | Daily verified — 2026-09-04 | Physical-comedy realism, digital character assembly, contact-proof stunt prompting, a fire-symbol escalation, and masked base-H3 video editing | [Daily case file](cases/daily-2026-09-04.md) |
 | Daily verified — 2026-09-05 | Y2K arcade anime promotion, continuously tracked brutalist dance, and performance-controlled nightclub suspense | [Daily case file](cases/daily-2026-09-05.md) |
+| Daily verified — 2026-09-06 | Intermediate-keyframe story continuity, a closed ten-pose editorial, and facial-action performance direction | [Daily case file](cases/daily-2026-09-06.md) |
 
 ## Reusable patterns
 
@@ -143,6 +144,9 @@ A case is included in the main collection only when:
 - For reference-led character promos, alternate identity-proof inserts with action beats while a closed typography and icon ledger owns the design system.
 - For reactive computer-vision overlays, constrain box count, scale tiers, coverage, update ratio, beat triggers, mask locality, and the exact properties that must remain photographic.
 - For restrained suspense, quantify inner pressure, outward display, and self-control, then let sound removal, lighting changes, object release, eyeline, and blocking carry the emotional turn.
+- For multi-part drawn narratives, let one character sheet own identity and scale while a scene-specific intermediate keyframe owns composition, construction progress, and hand placement; carry travel direction and retained state across chapters.
+- For fixed-pose editorial films, use a closed pose ledger with one camera angle, entry path, transition, and brief hold per pose; accelerate into each change and brake into each composition.
+- For expression control, decompose emotion labels into ordered facial actions across lips, cheeks, eyes, pupils, brows, nose, jaw, and chin; separate head motion from eye motion and specify the transition between states.
 
 ## Files
 
@@ -174,5 +178,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-03](cases/daily-2026-09-03.md)
 - [Daily verified cases — 2026-09-04](cases/daily-2026-09-04.md)
 - [Daily verified cases — 2026-09-05](cases/daily-2026-09-05.md)
+- [Daily verified cases — 2026-09-06](cases/daily-2026-09-06.md)
 
-Last collected: 2026-09-05
+Last collected: 2026-09-06
