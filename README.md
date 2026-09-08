@@ -46,6 +46,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-05 | Y2K arcade anime promotion, continuously tracked brutalist dance, and performance-controlled nightclub suspense | [Daily case file](cases/daily-2026-09-05.md) |
 | Daily verified — 2026-09-06 | Intermediate-keyframe story continuity, a closed ten-pose editorial, and facial-action performance direction | [Daily case file](cases/daily-2026-09-06.md) |
 | Daily verified — 2026-09-07 | Spatially locked multi-reference dialogue, a continuous coastal monologue, and transcript-assisted base-H3 lip sync | [Daily case file](cases/daily-2026-09-07.md) |
+| Daily verified — 2026-09-08 | Beat-mapped anime dance, a six-reference causal trailer, position-locked dialogue, reaction-before-cue commercial direction, and force-led climbing continuity | [Daily case file](cases/daily-2026-09-08.md) |
 
 ## Reusable patterns
 
@@ -152,6 +153,13 @@ A case is included in the main collection only when:
 - For a moving monologue, keep one exact line on a continuous audio clock while the camera changes scale; specify breathing and restrained gestures and mix environmental sound beneath the voice.
 - For still-image lip sync, let the image own composition, the audio own timing and performance, and an exact transcript own phoneme shapes; derive duration and frame count from the audio before rendering.
 
+
+- For choreography with reactive graphics, put body mechanics, effect behavior, and counter-moving camera on one shared beat map; accelerate between poses and brake on the readable locks.
+- For rapid multi-reference trailers, assign one non-overlapping role to every input and carry a named object, travel axis, and cause–consequence chain through the cuts.
+- For intimate multi-character dialogue, lock screen position, prop ownership, speaking order, and listener mouth state; make each line follow a visible performance cue.
+- For coached-performance footage, require the performer’s desired action or expression to appear before the offscreen director acknowledges it; forbid cue-waiting.
+- For high-risk physical action, specify contact, load, release, momentum, impact, and recovery first, then attach reaction, dialogue, debris, sound, and camera response to those triggers.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -184,5 +192,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-05](cases/daily-2026-09-05.md)
 - [Daily verified cases — 2026-09-06](cases/daily-2026-09-06.md)
 - [Daily verified cases — 2026-09-07](cases/daily-2026-09-07.md)
+- [Daily verified cases — 2026-09-08](cases/daily-2026-09-08.md)
 
-Last collected: 2026-09-07
+Last collected: 2026-09-08
