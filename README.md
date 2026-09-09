@@ -46,7 +46,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-05 | Y2K arcade anime promotion, continuously tracked brutalist dance, and performance-controlled nightclub suspense | [Daily case file](cases/daily-2026-09-05.md) |
 | Daily verified — 2026-09-06 | Intermediate-keyframe story continuity, a closed ten-pose editorial, and facial-action performance direction | [Daily case file](cases/daily-2026-09-06.md) |
 | Daily verified — 2026-09-07 | Spatially locked multi-reference dialogue, a continuous coastal monologue, and transcript-assisted base-H3 lip sync | [Daily case file](cases/daily-2026-09-07.md) |
-| Daily verified — 2026-09-08 | Beat-mapped anime dance, a six-reference causal trailer, position-locked dialogue, reaction-before-cue commercial direction, and force-led climbing continuity | [Daily case file](cases/daily-2026-09-08.md) |
+| Daily verified — 2026-09-08 | Beat-mapped anime dance, a six-reference causal trailer, position-locked dialogue, reaction-before-cue commercial direction, and force-led climbing continuity | [Daily case file](cases/daily-2026-09-08.md) |\n| Daily verified — 2026-09-09 | Structural product advertising, irreversible prop-state continuity, resolved emotional acting, pause-sliced dialogue, and a controlled Standard-H3 benchmark | [Daily case file](cases/daily-2026-09-09.md) |
 
 ## Reusable patterns
 
@@ -192,6 +192,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-05](cases/daily-2026-09-05.md)
 - [Daily verified cases — 2026-09-06](cases/daily-2026-09-06.md)
 - [Daily verified cases — 2026-09-07](cases/daily-2026-09-07.md)
-- [Daily verified cases — 2026-09-08](cases/daily-2026-09-08.md)
+- [Daily verified cases — 2026-09-08](cases/daily-2026-09-08.md)\n- [Daily verified cases — 2026-09-09](cases/daily-2026-09-09.md)
 
-Last collected: 2026-09-08
+Last collected: 2026-09-09
