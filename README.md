@@ -46,7 +46,9 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-05 | Y2K arcade anime promotion, continuously tracked brutalist dance, and performance-controlled nightclub suspense | [Daily case file](cases/daily-2026-09-05.md) |
 | Daily verified — 2026-09-06 | Intermediate-keyframe story continuity, a closed ten-pose editorial, and facial-action performance direction | [Daily case file](cases/daily-2026-09-06.md) |
 | Daily verified — 2026-09-07 | Spatially locked multi-reference dialogue, a continuous coastal monologue, and transcript-assisted base-H3 lip sync | [Daily case file](cases/daily-2026-09-07.md) |
-| Daily verified — 2026-09-08 | Beat-mapped anime dance, a six-reference causal trailer, position-locked dialogue, reaction-before-cue commercial direction, and force-led climbing continuity | [Daily case file](cases/daily-2026-09-08.md) |\n| Daily verified — 2026-09-09 | Structural product advertising, irreversible prop-state continuity, resolved emotional acting, pause-sliced dialogue, and a controlled Standard-H3 benchmark | [Daily case file](cases/daily-2026-09-09.md) |
+| Daily verified — 2026-09-08 | Beat-mapped anime dance, a six-reference causal trailer, position-locked dialogue, reaction-before-cue commercial direction, and force-led climbing continuity | [Daily case file](cases/daily-2026-09-08.md) |
+| Daily verified — 2026-09-09 | Structural product advertising, irreversible prop-state continuity, resolved emotional acting, pause-sliced dialogue, and a controlled Standard-H3 benchmark | [Daily case file](cases/daily-2026-09-09.md) |
+| Daily verified — 2026-09-13 | Anticipated prop handoff, temporally locked 3D-previs transfer, physically staged identity reveal, false-threat decompression, and a nostalgic movement montage | [Daily case file](cases/daily-2026-09-13.md) |
 
 ## Reusable patterns
 
@@ -160,6 +162,12 @@ A case is included in the main collection only when:
 - For coached-performance footage, require the performer’s desired action or expression to appear before the offscreen director acknowledges it; forbid cue-waiting.
 - For high-risk physical action, specify contact, load, release, momentum, impact, and recovery first, then attach reaction, dialogue, debris, sound, and camera response to those triggers.
 
+- For anticipated handoffs, keep one prop and its owner continuous; make the near-contact visible, withdraw the object physically, and close by returning it to its original process.
+- For 3D-previs transfer, let the source video own every timestamp, position, camera behavior, and piece of scene geometry while the character reference owns identity and style; treat time ranges as synchronization checkpoints, not cuts.
+- For physical character reveals, name the occluder and emergence path, forbid teleportation, and restrict an alternate self to a closed identity-difference ledger.
+- For false-threat reveals, show the sensory trigger and defensive response before the benign explanation, then release tension through small changes in face, hands, and posture.
+- For travel montages, vary shot scale around one locomotion verb per beat and reserve the longest shot for a quieter, foreground-filtered payoff.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -192,6 +200,8 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-05](cases/daily-2026-09-05.md)
 - [Daily verified cases — 2026-09-06](cases/daily-2026-09-06.md)
 - [Daily verified cases — 2026-09-07](cases/daily-2026-09-07.md)
-- [Daily verified cases — 2026-09-08](cases/daily-2026-09-08.md)\n- [Daily verified cases — 2026-09-09](cases/daily-2026-09-09.md)
+- [Daily verified cases — 2026-09-08](cases/daily-2026-09-08.md)
+- [Daily verified cases — 2026-09-09](cases/daily-2026-09-09.md)
+- [Daily verified cases — 2026-09-13](cases/daily-2026-09-13.md)
 
-Last collected: 2026-09-09
+Last collected: 2026-09-13
