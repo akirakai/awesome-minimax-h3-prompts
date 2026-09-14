@@ -49,6 +49,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-08 | Beat-mapped anime dance, a six-reference causal trailer, position-locked dialogue, reaction-before-cue commercial direction, and force-led climbing continuity | [Daily case file](cases/daily-2026-09-08.md) |
 | Daily verified — 2026-09-09 | Structural product advertising, irreversible prop-state continuity, resolved emotional acting, pause-sliced dialogue, and a controlled Standard-H3 benchmark | [Daily case file](cases/daily-2026-09-09.md) |
 | Daily verified — 2026-09-13 | Anticipated prop handoff, temporally locked 3D-previs transfer, physically staged identity reveal, false-threat decompression, and a nostalgic movement montage | [Daily case file](cases/daily-2026-09-13.md) |
+| Daily verified — 2026-09-14 | Prop-forced spatial reveals, symbolic threat timing, optical-path reversal, and reusable first-frame dance templates | [Daily case file](cases/daily-2026-09-14.md) |
 
 ## Reusable patterns
 
@@ -168,6 +169,11 @@ A case is included in the main collection only when:
 - For false-threat reveals, show the sensory trigger and defensive response before the benign explanation, then release tension through small changes in face, hands, and posture.
 - For travel montages, vary shot scale around one locomotion verb per beat and reserve the longest shot for a quieter, foreground-filtered payoff.
 
+- For prop-forced spatial reveals, align protagonist gaze, moving prop, weapon axis, camera travel, and target entry along one corridor; forbid target visibility until the physical trigger occurs.
+- For symbolic-threat scenes, reveal danger while an ordinary prop action completes, let the eyes change before the smile, and use a small object-state change as the second story beat.
+- For observer–target reversal, establish precise instrument operation and one optical line, then introduce a single foreign reflection before impact travels back along that same path.
+- For first-frame dance templates, let the image own identity and outfit, write support, plant, and weight transfer before style, delay reactive graphics until the body path is readable, and move the camera only after stable landings.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -203,5 +209,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-08](cases/daily-2026-09-08.md)
 - [Daily verified cases — 2026-09-09](cases/daily-2026-09-09.md)
 - [Daily verified cases — 2026-09-13](cases/daily-2026-09-13.md)
+- [Daily verified cases — 2026-09-14](cases/daily-2026-09-14.md)
 
-Last collected: 2026-09-13
+Last collected: 2026-09-14
