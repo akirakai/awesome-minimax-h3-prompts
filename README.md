@@ -50,6 +50,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-09 | Structural product advertising, irreversible prop-state continuity, resolved emotional acting, pause-sliced dialogue, and a controlled Standard-H3 benchmark | [Daily case file](cases/daily-2026-09-09.md) |
 | Daily verified — 2026-09-13 | Anticipated prop handoff, temporally locked 3D-previs transfer, physically staged identity reveal, false-threat decompression, and a nostalgic movement montage | [Daily case file](cases/daily-2026-09-13.md) |
 | Daily verified — 2026-09-14 | Prop-forced spatial reveals, symbolic threat timing, optical-path reversal, and reusable first-frame dance templates | [Daily case file](cases/daily-2026-09-14.md) |
+| Daily verified — 2026-09-15 | Exact hard-cut shot ledgers, proxy-owned typography restyling, and single-detail suspense reversal | [Daily case file](cases/daily-2026-09-15.md) |
 
 ## Reusable patterns
 
@@ -174,6 +175,10 @@ A case is included in the main collection only when:
 - For observer–target reversal, establish precise instrument operation and one optical line, then introduce a single foreign reflection before impact travels back along that same path.
 - For first-frame dance templates, let the image own identity and outfit, write support, plant, and weight transfer before style, delay reactive graphics until the body path is readable, and move the camera only after stable landings.
 
+- For dense hard-cut montages, close the transition vocabulary to one allowed cut, number every shot, lock identity and environment globally, and organize the sequence as an explicit spatial scale ladder.
+- For reference-driven restyling, let the source own geometry, choreography, camera, and edit rhythm while the prompt owns material, palette, lighting, and sound; keep text and symbols on a closed ledger.
+- For suspended suspense reveals, align observer, occluder, and target on one depth axis, forbid premature target information, and allow exactly one new visual detail in the final beat.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -210,5 +215,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-09](cases/daily-2026-09-09.md)
 - [Daily verified cases — 2026-09-13](cases/daily-2026-09-13.md)
 - [Daily verified cases — 2026-09-14](cases/daily-2026-09-14.md)
+- [Daily verified cases — 2026-09-15](cases/daily-2026-09-15.md)
 
-Last collected: 2026-09-14
+Last collected: 2026-09-15
