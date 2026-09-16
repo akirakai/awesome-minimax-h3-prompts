@@ -51,6 +51,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-13 | Anticipated prop handoff, temporally locked 3D-previs transfer, physically staged identity reveal, false-threat decompression, and a nostalgic movement montage | [Daily case file](cases/daily-2026-09-13.md) |
 | Daily verified — 2026-09-14 | Prop-forced spatial reveals, symbolic threat timing, optical-path reversal, and reusable first-frame dance templates | [Daily case file](cases/daily-2026-09-14.md) |
 | Daily verified — 2026-09-15 | Exact hard-cut shot ledgers, proxy-owned typography restyling, and single-detail suspense reversal | [Daily case file](cases/daily-2026-09-15.md) |
+| Daily verified — 2026-09-16 | Numbered pose-sheet choreography and a physically staged false-escape reversal | [Daily case file](cases/daily-2026-09-16.md) |
 
 ## Reusable patterns
 
@@ -179,6 +180,9 @@ A case is included in the main collection only when:
 - For reference-driven restyling, let the source own geometry, choreography, camera, and edit rhythm while the prompt owns material, palette, lighting, and sound; keep text and symbols on a closed ledger.
 - For suspended suspense reveals, align observer, occluder, and target on one depth axis, forbid premature target information, and allow exactly one new visual detail in the final beat.
 
+- For key-pose-sheet choreography, make the numbered reading order, support changes, weight transfers, and intermediate motion explicit; lock a static full-body camera so the sheet is interpreted as a continuous performance.
+- For false-escape reversals, stage every cause physically—pressure, footfall, grip, vault, braking, catch, and structural response—and delay emotional interpretation until after the triggering evidence.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -216,5 +220,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-13](cases/daily-2026-09-13.md)
 - [Daily verified cases — 2026-09-14](cases/daily-2026-09-14.md)
 - [Daily verified cases — 2026-09-15](cases/daily-2026-09-15.md)
+- [Daily verified cases — 2026-09-16](cases/daily-2026-09-16.md)
 
-Last collected: 2026-09-15
+Last collected: 2026-09-16
