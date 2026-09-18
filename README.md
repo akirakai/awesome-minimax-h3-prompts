@@ -53,6 +53,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-15 | Exact hard-cut shot ledgers, proxy-owned typography restyling, and single-detail suspense reversal | [Daily case file](cases/daily-2026-09-15.md) |
 | Daily verified — 2026-09-16 | Numbered pose-sheet choreography and a physically staged false-escape reversal | [Daily case file](cases/daily-2026-09-16.md) |
 | Daily verified — 2026-09-17 | Exclusive face-reveal editing, state-locked cliff rescue, and a reversible-clue temple trap | [Daily case file](cases/daily-2026-09-17.md) |
+| Daily verified — 2026-09-18 | Gesture-owned camera movement, environment-first threat response, and portrait-distance locking | [Daily case file](cases/daily-2026-09-18.md) |
 
 ## Reusable patterns
 
@@ -188,6 +189,10 @@ A case is included in the main collection only when:
 - For suspended rescue action, assign each time range an explicit support state, describe failed contact separately, and name the first legal moment when solid support may return.
 - For reversible-clue mysteries, introduce an inert physical trace, let contact activate the mechanism, invalidate retreat visibly, then reverse the clue’s motion to expose its actual purpose.
 
+- For gesture-driven camera choreography, bind direction, timing, acceleration, braking, and the final stop to one visible body part; require eye and torso tracking to adapt continuously.
+- For unseen-threat staging, show environmental response before facial response, then bind defensive movement to a second, spatially closer cue.
+- For distant-face stability, set an explicit minimum portrait distance and compare it against an otherwise identical unrestricted run before adding resolution or restoration.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -227,5 +232,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-15](cases/daily-2026-09-15.md)
 - [Daily verified cases — 2026-09-16](cases/daily-2026-09-16.md)
 - [Daily verified cases — 2026-09-17](cases/daily-2026-09-17.md)
+- [Daily verified cases — 2026-09-18](cases/daily-2026-09-18.md)
 
-Last collected: 2026-09-17
+Last collected: 2026-09-18
