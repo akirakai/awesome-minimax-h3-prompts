@@ -54,6 +54,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-16 | Numbered pose-sheet choreography and a physically staged false-escape reversal | [Daily case file](cases/daily-2026-09-16.md) |
 | Daily verified — 2026-09-17 | Exclusive face-reveal editing, state-locked cliff rescue, and a reversible-clue temple trap | [Daily case file](cases/daily-2026-09-17.md) |
 | Daily verified — 2026-09-18 | Gesture-owned camera movement, environment-first threat response, and portrait-distance locking | [Daily case file](cases/daily-2026-09-18.md) |
+| Daily verified — 2026-09-19 | Arm-reach selfie logic, gesture-causal power escalation, delayed weapon reveal, prop-led quiet acting, and wind-linked group suspense | [Daily case file](cases/daily-2026-09-19.md) |
 
 ## Reusable patterns
 
@@ -193,6 +194,12 @@ A case is included in the main collection only when:
 - For unseen-threat staging, show environmental response before facial response, then bind defensive movement to a second, spatially closer cue.
 - For distant-face stability, set an explicit minimum portrait distance and compare it against an otherwise identical unrestricted run before adding resolution or restoration.
 
+- For virtual-selfie edits, keep one arm visibly extended as the physical camera rig, hide the phone just beyond frame, and restrict every angle to believable reach.
+- For effect escalation, use one closed power vocabulary, bind every intensity change to a visible gesture, and preserve a smaller persistent signature after the climax.
+- For delayed prop reveals, repeat distinctive partial contours across inserts while withholding the complete silhouette until one exclusive final composition.
+- For restrained emotional acting, carry change through irreversible prop state, breath, and support posture before allowing larger facial expression.
+- For ensemble suspense, apply one persistent environmental vector across all bodies and materials while tracking consumed, discarded, placed, and mechanically advanced props on a strict state ledger.
+
 ## Files
 
 - [Official MiniMax cases](cases/official-huggingface-2026-08-05.md)
@@ -233,5 +240,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-16](cases/daily-2026-09-16.md)
 - [Daily verified cases — 2026-09-17](cases/daily-2026-09-17.md)
 - [Daily verified cases — 2026-09-18](cases/daily-2026-09-18.md)
+- [Daily verified cases — 2026-09-19](cases/daily-2026-09-19.md)
 
-Last collected: 2026-09-18
+Last collected: 2026-09-19
