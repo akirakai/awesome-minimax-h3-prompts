@@ -56,9 +56,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-18 | Gesture-owned camera movement, environment-first threat response, and portrait-distance locking | [Daily case file](cases/daily-2026-09-18.md) |
 | Daily verified — 2026-09-19 | Arm-reach selfie logic, gesture-causal power escalation, delayed weapon reveal, prop-led quiet acting, and wind-linked group suspense | [Daily case file](cases/daily-2026-09-19.md) |
 | Daily verified — 2026-09-20 | Action-continuous 30-cut editing, behavior-led animal product launch, and stateful desktop interaction | [Daily case file](cases/daily-2026-09-20.md) |
+| Daily verified — 2026-09-22 | Contact-continuous action editing, physical VFX state changes, and authority-through-stillness direction | [Daily case file](cases/daily-2026-09-22.md) |
 
 ## Reusable patterns
 
+- Carry one fight across rapid cuts by making every reversal follow visible contact and preserving direction, body state, and tactical cause.
+- For physically staged VFX, define each effect’s source, path, collision, residue, and final state, then synchronize material reversal, sound, and character reaction.
+- For authority-through-stillness shots, lock posture and use breathing, blinking, shallow parallax, restrained environmental motion, and a final symmetrical composition.
 - Assign an explicit role to every image, video, and audio reference.
 - Use timecoded beats when a clip contains more than one action.
 - Describe visible change and the desired end state, not only a static subject.
