@@ -57,9 +57,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-19 | Arm-reach selfie logic, gesture-causal power escalation, delayed weapon reveal, prop-led quiet acting, and wind-linked group suspense | [Daily case file](cases/daily-2026-09-19.md) |
 | Daily verified — 2026-09-20 | Action-continuous 30-cut editing, behavior-led animal product launch, and stateful desktop interaction | [Daily case file](cases/daily-2026-09-20.md) |
 | Daily verified — 2026-09-22 | Contact-continuous action editing, physical VFX state changes, and authority-through-stillness direction | [Daily case file](cases/daily-2026-09-22.md) |
+| Daily verified — 2026-09-23 | Fixed-camera ordinary-to-disruption staging and evidence-led micro-expression suspense | [Daily case file](cases/daily-2026-09-23.md) |
 
 ## Reusable patterns
 
+- For a fixed-camera ordinary-to-disruption scene, complete a believable everyday action chain first, reserve the trigger for a closed final window, define subject entry and exit sides, and hold on the resolved empty frame.
+- For evidence-led suspense, stage discovery, verification, extraction, and judgment in order; give each phase measurable facial and breathing changes while liquid, hair, cloth, lighting, Foley, and camera remain causally synchronized.
 - Carry one fight across rapid cuts by making every reversal follow visible contact and preserving direction, body state, and tactical cause.
 - For physically staged VFX, define each effect’s source, path, collision, residue, and final state, then synchronize material reversal, sound, and character reaction.
 - For authority-through-stillness shots, lock posture and use breathing, blinking, shallow parallax, restrained environmental motion, and a final symmetrical composition.
@@ -251,5 +254,7 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-18](cases/daily-2026-09-18.md)
 - [Daily verified cases — 2026-09-19](cases/daily-2026-09-19.md)
 - [Daily verified cases — 2026-09-20](cases/daily-2026-09-20.md)
+- [Daily verified cases — 2026-09-22](cases/daily-2026-09-22.md)
+- [Daily verified cases — 2026-09-23](cases/daily-2026-09-23.md)
 
-Last collected: 2026-09-20
+Last collected: 2026-09-23
