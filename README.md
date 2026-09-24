@@ -58,9 +58,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-20 | Action-continuous 30-cut editing, behavior-led animal product launch, and stateful desktop interaction | [Daily case file](cases/daily-2026-09-20.md) |
 | Daily verified — 2026-09-22 | Contact-continuous action editing, physical VFX state changes, and authority-through-stillness direction | [Daily case file](cases/daily-2026-09-22.md) |
 | Daily verified — 2026-09-23 | Fixed-camera ordinary-to-disruption staging and evidence-led micro-expression suspense | [Daily case file](cases/daily-2026-09-23.md) |
+| Daily verified — 2026-09-24 | Character-adaptive contour graphics, token-led predator reversal, progressive magic failure, and source-to-recipient power transfer | [Daily case file](cases/daily-2026-09-24.md) |
 
 ## Reusable patterns
 
+- For character-adaptive motion graphics, lock identity first, use a closed shot ladder, derive every graphic property from visible design, and make contour lines touch real forms before becoming transitions.
+- For predator–prey reversals, let one physical token cross the opposing groups, reveal its meaning through existing evidence, and make recognition interrupt an already-started action.
+- For failed supernatural processes, build a visible closed circulation, increase contact and effort, extinguish the effect section by section, then let bodily support fail in a defined order.
+- For power-transfer rituals, keep one unbroken source-to-contact-to-body-to-new-source path, shift the lighting center with ownership, and delay crowd submission until the recipient produces independent proof.
 - For a fixed-camera ordinary-to-disruption scene, complete a believable everyday action chain first, reserve the trigger for a closed final window, define subject entry and exit sides, and hold on the resolved empty frame.
 - For evidence-led suspense, stage discovery, verification, extraction, and judgment in order; give each phase measurable facial and breathing changes while liquid, hair, cloth, lighting, Foley, and camera remain causally synchronized.
 - Carry one fight across rapid cuts by making every reversal follow visible contact and preserving direction, body state, and tactical cause.
@@ -256,5 +261,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-20](cases/daily-2026-09-20.md)
 - [Daily verified cases — 2026-09-22](cases/daily-2026-09-22.md)
 - [Daily verified cases — 2026-09-23](cases/daily-2026-09-23.md)
+- [Daily verified cases — 2026-09-24](cases/daily-2026-09-24.md)
 
-Last collected: 2026-09-23
+Last collected: 2026-09-24
