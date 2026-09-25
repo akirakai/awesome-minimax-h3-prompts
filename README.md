@@ -59,9 +59,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-22 | Contact-continuous action editing, physical VFX state changes, and authority-through-stillness direction | [Daily case file](cases/daily-2026-09-22.md) |
 | Daily verified — 2026-09-23 | Fixed-camera ordinary-to-disruption staging and evidence-led micro-expression suspense | [Daily case file](cases/daily-2026-09-23.md) |
 | Daily verified — 2026-09-24 | Character-adaptive contour graphics, token-led predator reversal, progressive magic failure, and source-to-recipient power transfer | [Daily case file](cases/daily-2026-09-24.md) |
+| Daily verified — 2026-09-25 | Persistent-ribbon one-take PV, blood-triggered reverse storm, lens-directed liquid confrontation, and breath-led restraint reversal | [Daily case file](cases/daily-2026-09-25.md) |
 
 ## Reusable patterns
 
+- For one-take graphic reveals, assign one persistent effect a body-relative path, require continuous visibility and motion causality, and let camera elevation and orbit follow the same progression.
+- For trigger-driven environmental VFX, make the initiating substance countable, give each impact a local response, then propagate one shared vector through every material with different lag.
+- For direct-to-lens confrontations, define the camera as the other character, lock every gaze and prop trajectory to that position, and preserve irreversible filled, emptied, and impact-residue states.
+- For power reversals inside a restraint pose, keep blocking unchanged while control transfers through breath, speech, and localized environmental response; let the captor’s correction expose the new causal truth.
 - For character-adaptive motion graphics, lock identity first, use a closed shot ladder, derive every graphic property from visible design, and make contour lines touch real forms before becoming transitions.
 - For predator–prey reversals, let one physical token cross the opposing groups, reveal its meaning through existing evidence, and make recognition interrupt an already-started action.
 - For failed supernatural processes, build a visible closed circulation, increase contact and effort, extinguish the effect section by section, then let bodily support fail in a defined order.
@@ -262,5 +267,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-22](cases/daily-2026-09-22.md)
 - [Daily verified cases — 2026-09-23](cases/daily-2026-09-23.md)
 - [Daily verified cases — 2026-09-24](cases/daily-2026-09-24.md)
+- [Daily verified cases — 2026-09-25](cases/daily-2026-09-25.md)
 
-Last collected: 2026-09-24
+Last collected: 2026-09-25
