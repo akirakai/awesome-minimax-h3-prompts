@@ -60,8 +60,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-23 | Fixed-camera ordinary-to-disruption staging and evidence-led micro-expression suspense | [Daily case file](cases/daily-2026-09-23.md) |
 | Daily verified — 2026-09-24 | Character-adaptive contour graphics, token-led predator reversal, progressive magic failure, and source-to-recipient power transfer | [Daily case file](cases/daily-2026-09-24.md) |
 | Daily verified — 2026-09-25 | Persistent-ribbon one-take PV, blood-triggered reverse storm, lens-directed liquid confrontation, and breath-led restraint reversal | [Daily case file](cases/daily-2026-09-25.md) |
+| Daily verified — 2026-09-26 | Object-controlled environmental anomaly, validator-led succession reversal, material-proven invisibility, and four compact base-H3 prompt/video pairs | [Daily case file](cases/daily-2026-09-26.md) |
 
 ## Reusable patterns
+
+- For scene-wide anomalies, give one physical object control over the propagation order, then make one visible action produce an immediate and globally testable shutdown.
+- For succession or ownership reversals, use a third entity as an independent validator; let it wait for exact physical proof, respond in a defined order, and confirm the transfer through composition.
+- For invisibility, require true empty image space, reveal the missing body with material that travels and adheres physically, and use an observer’s gaze as independent proof.
+- For compact H3 prompts, order subject, sequential action, camera, light, mood and sound; in image-to-video, let the frame own appearance and prompt only visible change.
 
 - For one-take graphic reveals, assign one persistent effect a body-relative path, require continuous visibility and motion causality, and let camera elevation and orbit follow the same progression.
 - For trigger-driven environmental VFX, make the initiating substance countable, give each impact a local response, then propagate one shared vector through every material with different lag.
@@ -268,5 +274,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-23](cases/daily-2026-09-23.md)
 - [Daily verified cases — 2026-09-24](cases/daily-2026-09-24.md)
 - [Daily verified cases — 2026-09-25](cases/daily-2026-09-25.md)
+- [Daily verified cases — 2026-09-26](cases/daily-2026-09-26.md)
 
-Last collected: 2026-09-25
+Last collected: 2026-09-26
