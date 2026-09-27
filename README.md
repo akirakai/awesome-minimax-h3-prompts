@@ -61,8 +61,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-24 | Character-adaptive contour graphics, token-led predator reversal, progressive magic failure, and source-to-recipient power transfer | [Daily case file](cases/daily-2026-09-24.md) |
 | Daily verified — 2026-09-25 | Persistent-ribbon one-take PV, blood-triggered reverse storm, lens-directed liquid confrontation, and breath-led restraint reversal | [Daily case file](cases/daily-2026-09-25.md) |
 | Daily verified — 2026-09-26 | Object-controlled environmental anomaly, validator-led succession reversal, material-proven invisibility, and four compact base-H3 prompt/video pairs | [Daily case file](cases/daily-2026-09-26.md) |
+| Daily verified — 2026-09-27 | Invisible-arrival proxies, contact-led water entry, rigid-body cage reversal, and exact-interface effect shutdown | [Daily case file](cases/daily-2026-09-27.md) |
 
 ## Reusable patterns
+
+- For invisible arrivals, give independent physical proxies one shared approach vector but different delays, then reveal only after their direction and distance agree.
+- For continuous surface interaction, track support transfer and every body–material contact; give each contact its own local response and preserve accumulated wet, displaced or compressed states.
+- For object-logic comedy, define topology, rigidity, contact and ownership, prove the mechanism in an unbroken wide shot, and delay the reaction cut until the final state settles.
+- For comic scale contrast, give a giant effect one explicitly measured small interface; preserve the prop’s path and contact, then synchronize global shutdown with the exact seal.
 
 - For scene-wide anomalies, give one physical object control over the propagation order, then make one visible action produce an immediate and globally testable shutdown.
 - For succession or ownership reversals, use a third entity as an independent validator; let it wait for exact physical proof, respond in a defined order, and confirm the transfer through composition.
@@ -275,5 +281,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-24](cases/daily-2026-09-24.md)
 - [Daily verified cases — 2026-09-25](cases/daily-2026-09-25.md)
 - [Daily verified cases — 2026-09-26](cases/daily-2026-09-26.md)
+- [Daily verified cases — 2026-09-27](cases/daily-2026-09-27.md)
 
-Last collected: 2026-09-26
+Last collected: 2026-09-27
