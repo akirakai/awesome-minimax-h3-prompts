@@ -62,9 +62,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-25 | Persistent-ribbon one-take PV, blood-triggered reverse storm, lens-directed liquid confrontation, and breath-led restraint reversal | [Daily case file](cases/daily-2026-09-25.md) |
 | Daily verified — 2026-09-26 | Object-controlled environmental anomaly, validator-led succession reversal, material-proven invisibility, and four compact base-H3 prompt/video pairs | [Daily case file](cases/daily-2026-09-26.md) |
 | Daily verified — 2026-09-27 | Invisible-arrival proxies, contact-led water entry, rigid-body cage reversal, and exact-interface effect shutdown | [Daily case file](cases/daily-2026-09-27.md) |
+| Daily verified — 2026-09-28 | Contact-proven lightning reversal and five-scale tropical travel staging | [Daily case file](cases/daily-2026-09-28.md) |
 
 ## Reusable patterns
 
+- For anticipation-to-backfire comedy, prove preparation, protective reaction, source-to-target path and exact contact in one uninterrupted wide shot; preserve the post-impact pose, stop music at contact, and delay the reaction close-up.
+- For short travel films, give each beat one shot scale, one camera behavior and one simple action; keep identity, wardrobe and environmental physics global, then finish with the widest reveal.
 - For invisible arrivals, give independent physical proxies one shared approach vector but different delays, then reveal only after their direction and distance agree.
 - For continuous surface interaction, track support transfer and every body–material contact; give each contact its own local response and preserve accumulated wet, displaced or compressed states.
 - For object-logic comedy, define topology, rigidity, contact and ownership, prove the mechanism in an unbroken wide shot, and delay the reaction cut until the final state settles.
@@ -282,5 +285,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-25](cases/daily-2026-09-25.md)
 - [Daily verified cases — 2026-09-26](cases/daily-2026-09-26.md)
 - [Daily verified cases — 2026-09-27](cases/daily-2026-09-27.md)
+- [Daily verified cases — 2026-09-28](cases/daily-2026-09-28.md)
 
-Last collected: 2026-09-27
+Last collected: 2026-09-28
