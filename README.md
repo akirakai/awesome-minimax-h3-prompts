@@ -63,9 +63,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-26 | Object-controlled environmental anomaly, validator-led succession reversal, material-proven invisibility, and four compact base-H3 prompt/video pairs | [Daily case file](cases/daily-2026-09-26.md) |
 | Daily verified — 2026-09-27 | Invisible-arrival proxies, contact-led water entry, rigid-body cage reversal, and exact-interface effect shutdown | [Daily case file](cases/daily-2026-09-27.md) |
 | Daily verified — 2026-09-28 | Contact-proven lightning reversal and five-scale tropical travel staging | [Daily case file](cases/daily-2026-09-28.md) |
+| Daily verified — 2026-09-29 | Native Ref2VA character replacement with an explicit no-LoRA control | [Daily case file](cases/daily-2026-09-29.md) |
 
 ## Reusable patterns
 
+- For native Ref2VA character replacement, assign identity, camera motion and environment to separate references, state preservation versus attribute-transfer roles explicitly, and validate the base model with a same-prompt no-LoRA control.
 - For anticipation-to-backfire comedy, prove preparation, protective reaction, source-to-target path and exact contact in one uninterrupted wide shot; preserve the post-impact pose, stop music at contact, and delay the reaction close-up.
 - For short travel films, give each beat one shot scale, one camera behavior and one simple action; keep identity, wardrobe and environmental physics global, then finish with the widest reveal.
 - For invisible arrivals, give independent physical proxies one shared approach vector but different delays, then reveal only after their direction and distance agree.
@@ -286,5 +288,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-26](cases/daily-2026-09-26.md)
 - [Daily verified cases — 2026-09-27](cases/daily-2026-09-27.md)
 - [Daily verified cases — 2026-09-28](cases/daily-2026-09-28.md)
+- [Daily verified cases — 2026-09-29](cases/daily-2026-09-29.md)
 
-Last collected: 2026-09-28
+Last collected: 2026-09-29
