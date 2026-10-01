@@ -65,9 +65,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-28 | Contact-proven lightning reversal and five-scale tropical travel staging | [Daily case file](cases/daily-2026-09-28.md) |
 | Daily verified — 2026-09-29 | Native Ref2VA character replacement with an explicit no-LoRA control | [Daily case file](cases/daily-2026-09-29.md) |
 | Daily verified — 2026-09-30 | Fixed-camera private performance and reflection-led offscreen-threat staging | [Daily case file](cases/daily-2026-09-30.md) |
+| Daily verified — 2026-10-01 | Closed-loop book magic and consumption-led grief performance | [Daily case file](cases/daily-2026-10-01.md) |
 
 ## Reusable patterns
 
+- For contained magical interruptions, lock every subject and prop to one side of one axis, give the effect one physical source and shadow, then reverse it along the same path when a concrete shutoff action occurs.
+- For grief scenes built around absence, keep the absent partner as a fixed eyeline and prop target, begin emotional failure early, and measure progression through bites, swallowing, breathing, remaining food and irreversible table states.
 - For fixed-camera private performances, combine a closed adjustment chain with a facial-state ladder and independently measurable background activity; keep cloth, hair, breath and exit inertia causally linked.
 - For threats that stay offscreen, propagate one warning through behavior, reflection, refraction and material vibration, complete protective movement before impact, then make the impact follow crack, failure and aftermath.
 - For native Ref2VA character replacement, assign identity, camera motion and environment to separate references, state preservation versus attribute-transfer roles explicitly, and validate the base model with a same-prompt no-LoRA control.
@@ -293,5 +296,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-28](cases/daily-2026-09-28.md)
 - [Daily verified cases — 2026-09-29](cases/daily-2026-09-29.md)
 - [Daily verified cases — 2026-09-30](cases/daily-2026-09-30.md)
+- [Daily verified cases — 2026-10-01](cases/daily-2026-10-01.md)
 
-Last collected: 2026-09-30
+Last collected: 2026-10-01
