@@ -66,9 +66,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-29 | Native Ref2VA character replacement with an explicit no-LoRA control | [Daily case file](cases/daily-2026-09-29.md) |
 | Daily verified — 2026-09-30 | Fixed-camera private performance and reflection-led offscreen-threat staging | [Daily case file](cases/daily-2026-09-30.md) |
 | Daily verified — 2026-10-01 | Closed-loop book magic and consumption-led grief performance | [Daily case file](cases/daily-2026-10-01.md) |
+| Daily verified — 2026-10-02 | Contact-mapped water entry, spatially proven object rescue, and narrative-led perfume advertising | [Daily case file](cases/daily-2026-10-02.md) |
 
 ## Reusable patterns
 
+- For supported water entry, map every support transfer and body–surface contact, then give foot, hip, fingertip, hair, cloth and nearby animals distinct delayed responses.
+- For spatially proven rescues, define fixed start, hazard, retreat and discarded-prop points; make the protected object visibly clear the strike zone before impact.
+- For luxury product ads, organize the clip as preparation, trigger, choice, product macro, departure, destination and emotional payoff; isolate the product action while keeping identity and style global.
 - For contained magical interruptions, lock every subject and prop to one side of one axis, give the effect one physical source and shadow, then reverse it along the same path when a concrete shutoff action occurs.
 - For grief scenes built around absence, keep the absent partner as a fixed eyeline and prop target, begin emotional failure early, and measure progression through bites, swallowing, breathing, remaining food and irreversible table states.
 - For fixed-camera private performances, combine a closed adjustment chain with a facial-state ladder and independently measurable background activity; keep cloth, hair, breath and exit inertia causally linked.
@@ -297,5 +301,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-29](cases/daily-2026-09-29.md)
 - [Daily verified cases — 2026-09-30](cases/daily-2026-09-30.md)
 - [Daily verified cases — 2026-10-01](cases/daily-2026-10-01.md)
+- [Daily verified cases — 2026-10-02](cases/daily-2026-10-02.md)
 
-Last collected: 2026-10-01
+Last collected: 2026-10-02
