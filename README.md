@@ -67,8 +67,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-09-30 | Fixed-camera private performance and reflection-led offscreen-threat staging | [Daily case file](cases/daily-2026-09-30.md) |
 | Daily verified — 2026-10-01 | Closed-loop book magic and consumption-led grief performance | [Daily case file](cases/daily-2026-10-01.md) |
 | Daily verified — 2026-10-02 | Contact-mapped water entry, spatially proven object rescue, and narrative-led perfume advertising | [Daily case file](cases/daily-2026-10-02.md) |
+| Daily verified — 2026-10-03 | Power-state-driven mechanical farewell and delayed emotional release | [Daily case file](cases/daily-2026-10-03.md) |
 
 ## Reusable patterns
+
+- For mechanical farewells, use a countable power-state chain and forbid emotional collapse until shutdown is physically proven; synchronize light, servo, Foley, breath and facial control around the same final state.
 
 - For supported water entry, map every support transfer and body–surface contact, then give foot, hip, fingertip, hair, cloth and nearby animals distinct delayed responses.
 - For spatially proven rescues, define fixed start, hazard, retreat and discarded-prop points; make the protected object visibly clear the strike zone before impact.
@@ -302,5 +305,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-09-30](cases/daily-2026-09-30.md)
 - [Daily verified cases — 2026-10-01](cases/daily-2026-10-01.md)
 - [Daily verified cases — 2026-10-02](cases/daily-2026-10-02.md)
+- [Daily verified cases — 2026-10-03](cases/daily-2026-10-03.md)
 
-Last collected: 2026-10-02
+Last collected: 2026-10-03
