@@ -68,8 +68,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-01 | Closed-loop book magic and consumption-led grief performance | [Daily case file](cases/daily-2026-10-01.md) |
 | Daily verified — 2026-10-02 | Contact-mapped water entry, spatially proven object rescue, and narrative-led perfume advertising | [Daily case file](cases/daily-2026-10-02.md) |
 | Daily verified — 2026-10-03 | Power-state-driven mechanical farewell and delayed emotional release | [Daily case file](cases/daily-2026-10-03.md) |
+| Daily verified — 2026-10-04 | Axis-locked camera pursuit and force-path two-person fashion reversal | [Daily case file](cases/daily-2026-10-04.md) |
 
 ## Reusable patterns
+
+- For actor–camera pursuit, lock a named path and one side of the axis; make every camera move answer a visible gesture or contact, and finish with a spatially continuous foreground wipe or backward glance.
+- For two-person balance reversals, trace one force path from foot contact through prop tension, body pitch, hand catch and corrective steps; preserve sides and ownership, and delay slow motion until contact is proven.
 
 - For mechanical farewells, use a countable power-state chain and forbid emotional collapse until shutdown is physically proven; synchronize light, servo, Foley, breath and facial control around the same final state.
 
@@ -306,5 +310,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-01](cases/daily-2026-10-01.md)
 - [Daily verified cases — 2026-10-02](cases/daily-2026-10-02.md)
 - [Daily verified cases — 2026-10-03](cases/daily-2026-10-03.md)
+- [Daily verified cases — 2026-10-04](cases/daily-2026-10-04.md)
 
-Last collected: 2026-10-03
+Last collected: 2026-10-04
