@@ -69,8 +69,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-02 | Contact-mapped water entry, spatially proven object rescue, and narrative-led perfume advertising | [Daily case file](cases/daily-2026-10-02.md) |
 | Daily verified — 2026-10-03 | Power-state-driven mechanical farewell and delayed emotional release | [Daily case file](cases/daily-2026-10-03.md) |
 | Daily verified — 2026-10-04 | Axis-locked camera pursuit and force-path two-person fashion reversal | [Daily case file](cases/daily-2026-10-04.md) |
+| Daily verified — 2026-10-05 | First-person rescue proof, validator-gated mechanism comedy, single-prop ownership transfer, and clue-led rail failure | [Daily case file](cases/daily-2026-10-05.md) |
 
 ## Reusable patterns
+
+- In first-person rescues, define the camera as the protected character, make a rescuer hand own its movement, and prove safe-zone relocation before revealing impact.
+- For mechanism comedy, lock the device through a closed set of attempts and allow the state change only when an independent validator arrives.
+- For single-prop handoffs, permit exactly one owner at a time and trigger audiovisual change only when completed placement proves the transfer.
+- For clue-led mechanical failures, plant a local physical warning, let load extend it along the same path, and delay emotional release until the safe stop is verified.
 
 - For actor–camera pursuit, lock a named path and one side of the axis; make every camera move answer a visible gesture or contact, and finish with a spatially continuous foreground wipe or backward glance.
 - For two-person balance reversals, trace one force path from foot contact through prop tension, body pitch, hand catch and corrective steps; preserve sides and ownership, and delay slow motion until contact is proven.
@@ -311,5 +317,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-02](cases/daily-2026-10-02.md)
 - [Daily verified cases — 2026-10-03](cases/daily-2026-10-03.md)
 - [Daily verified cases — 2026-10-04](cases/daily-2026-10-04.md)
+- [Daily verified cases — 2026-10-05](cases/daily-2026-10-05.md)
 
-Last collected: 2026-10-04
+Last collected: 2026-10-05
