@@ -70,8 +70,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-03 | Power-state-driven mechanical farewell and delayed emotional release | [Daily case file](cases/daily-2026-10-03.md) |
 | Daily verified — 2026-10-04 | Axis-locked camera pursuit and force-path two-person fashion reversal | [Daily case file](cases/daily-2026-10-04.md) |
 | Daily verified — 2026-10-05 | First-person rescue proof, validator-gated mechanism comedy, single-prop ownership transfer, and clue-led rail failure | [Daily case file](cases/daily-2026-10-05.md) |
+| Daily verified — 2026-10-06 | Warning-evidence escape geometry and contact-triggered animal intervention | [Daily case file](cases/daily-2026-10-06.md) |
 
 ## Reusable patterns
+
+- For warning-led escape scenes, plant several small physical signals, define one narrow legal route with ordered footwork, and let the hazard strike only the exact vacated position.
+- For animal-assisted reversals, make intervention one precise noninjurious contact, require self-braking and physical confirmation, and delay trust until support and hazard states are stable.
 
 - In first-person rescues, define the camera as the protected character, make a rescuer hand own its movement, and prove safe-zone relocation before revealing impact.
 - For mechanism comedy, lock the device through a closed set of attempts and allow the state change only when an independent validator arrives.
@@ -318,5 +322,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-03](cases/daily-2026-10-03.md)
 - [Daily verified cases — 2026-10-04](cases/daily-2026-10-04.md)
 - [Daily verified cases — 2026-10-05](cases/daily-2026-10-05.md)
+- [Daily verified cases — 2026-10-06](cases/daily-2026-10-06.md)
 
-Last collected: 2026-10-05
+Last collected: 2026-10-06
