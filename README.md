@@ -71,8 +71,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-04 | Axis-locked camera pursuit and force-path two-person fashion reversal | [Daily case file](cases/daily-2026-10-04.md) |
 | Daily verified — 2026-10-05 | First-person rescue proof, validator-gated mechanism comedy, single-prop ownership transfer, and clue-led rail failure | [Daily case file](cases/daily-2026-10-05.md) |
 | Daily verified — 2026-10-06 | Warning-evidence escape geometry and contact-triggered animal intervention | [Daily case file](cases/daily-2026-10-06.md) |
+| Daily verified — 2026-10-07 | Load-path robotic rescue and gemstone-triggered structural bracing | [Daily case file](cases/daily-2026-10-07.md) |
 
 ## Reusable patterns
+
+- For rescue misdirection, establish threatening intent through gaze and reach, then let visible structural failure reveal the same motion as support; map contact load through every joint and brace.
+- For latent object–environment control, require a small physical response before commitment, propagate activation along a visible material path, and preserve the final load-bearing state after power withdraws.
 
 - For warning-led escape scenes, plant several small physical signals, define one narrow legal route with ordered footwork, and let the hazard strike only the exact vacated position.
 - For animal-assisted reversals, make intervention one precise noninjurious contact, require self-braking and physical confirmation, and delay trust until support and hazard states are stable.
@@ -323,5 +327,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-04](cases/daily-2026-10-04.md)
 - [Daily verified cases — 2026-10-05](cases/daily-2026-10-05.md)
 - [Daily verified cases — 2026-10-06](cases/daily-2026-10-06.md)
+- [Daily verified cases — 2026-10-07](cases/daily-2026-10-07.md)
 
-Last collected: 2026-10-06
+Last collected: 2026-10-07
