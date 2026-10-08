@@ -72,8 +72,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-05 | First-person rescue proof, validator-gated mechanism comedy, single-prop ownership transfer, and clue-led rail failure | [Daily case file](cases/daily-2026-10-05.md) |
 | Daily verified — 2026-10-06 | Warning-evidence escape geometry and contact-triggered animal intervention | [Daily case file](cases/daily-2026-10-06.md) |
 | Daily verified — 2026-10-07 | Load-path robotic rescue and gemstone-triggered structural bracing | [Daily case file](cases/daily-2026-10-07.md) |
+| Daily verified — 2026-10-08 | Six-shot football-sneaker advertising from aspiration to hero frame | [Daily case file](cases/daily-2026-10-08.md) |
 
 ## Reusable patterns
+
+- For short product films, sequence aspiration, product macro, human preparation, performance proof, emotional focus and an isolated hero frame; give each shot one job and keep product identity consistent across environments.
 
 - For rescue misdirection, establish threatening intent through gaze and reach, then let visible structural failure reveal the same motion as support; map contact load through every joint and brace.
 - For latent object–environment control, require a small physical response before commitment, propagate activation along a visible material path, and preserve the final load-bearing state after power withdraws.
@@ -328,5 +331,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-05](cases/daily-2026-10-05.md)
 - [Daily verified cases — 2026-10-06](cases/daily-2026-10-06.md)
 - [Daily verified cases — 2026-10-07](cases/daily-2026-10-07.md)
+- [Daily verified cases — 2026-10-08](cases/daily-2026-10-08.md)
 
-Last collected: 2026-10-07
+Last collected: 2026-10-08
