@@ -73,8 +73,16 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-06 | Warning-evidence escape geometry and contact-triggered animal intervention | [Daily case file](cases/daily-2026-10-06.md) |
 | Daily verified — 2026-10-07 | Load-path robotic rescue and gemstone-triggered structural bracing | [Daily case file](cases/daily-2026-10-07.md) |
 | Daily verified — 2026-10-08 | Six-shot football-sneaker advertising from aspiration to hero frame | [Daily case file](cases/daily-2026-10-08.md) |
+| Daily verified — 2026-10-09 | Stateful product inspection and five compact open-weight physics/object-control studies | [Daily case file](cases/daily-2026-10-09.md) |
 
 ## Reusable patterns
+
+- For product-admiration scenes, define a one-way inspection route and a closed component checklist; couple gaze, touch and framing at every checkpoint, and prove side changes with a foreground landmark.
+- For branching physical effects, specify topology as an ordered growth process—primary trunk before secondary branches—rather than only naming the final shape.
+- For oscillatory action, state an exact repetition count, a deadline for settling and a reserved stillness interval so the motion reaches a terminal state.
+- For material substitutions, keep the container and action conventional and change only the medium, making model-specific physics errors easy to identify.
+- For repeated-object scenes, reduce count and lock arrangement, shared geometry and state as a closed ledger before adding visual novelty.
+- When a specialized tool is unfamiliar to the model, replace it with a well-known implement that produces the same visible action and define the result with a material-and-shape metaphor.
 
 - For short product films, sequence aspiration, product macro, human preparation, performance proof, emotional focus and an isolated hero frame; give each shot one job and keep product identity consistent across environments.
 
