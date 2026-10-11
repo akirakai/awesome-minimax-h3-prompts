@@ -74,8 +74,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-07 | Load-path robotic rescue and gemstone-triggered structural bracing | [Daily case file](cases/daily-2026-10-07.md) |
 | Daily verified — 2026-10-08 | Six-shot football-sneaker advertising from aspiration to hero frame | [Daily case file](cases/daily-2026-10-08.md) |
 | Daily verified — 2026-10-09 | Stateful product inspection and five compact open-weight physics/object-control studies | [Daily case file](cases/daily-2026-10-09.md) |
+| Daily verified — 2026-10-10 | Continuous drone-to-road skateboard camera choreography | [Daily case file](cases/daily-2026-10-10.md) |
+| Daily verified — 2026-10-11 | Stealth-cover geometry, consequence-led anime comedy, and two compact ordered-object studies | [Daily case file](cases/daily-2026-10-11.md) |
 
 ## Reusable patterns
+
+- For stealth scenes, define the threat's legal route, require proof of real cover before closest approach, and make exposure conditional on a measurable objective.
+- For consequence-led visual comedy, lock the prop ledger, escalate one effect from one physical source, and reserve a silent reaction beat after the mechanism is proven.
+- For line-built shapes, state the single path's construction order; for repeated agents, combine an exact count with a serial-entry rule and a separate terminal beat.
 
 - For product-admiration scenes, define a one-way inspection route and a closed component checklist; couple gaze, touch and framing at every checkpoint, and prove side changes with a foreground landmark.
 - For branching physical effects, specify topology as an ordered growth process—primary trunk before secondary branches—rather than only naming the final shape.
