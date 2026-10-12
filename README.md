@@ -76,8 +76,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-09 | Stateful product inspection and five compact open-weight physics/object-control studies | [Daily case file](cases/daily-2026-10-09.md) |
 | Daily verified — 2026-10-10 | Continuous drone-to-road skateboard camera choreography | [Daily case file](cases/daily-2026-10-10.md) |
 | Daily verified — 2026-10-11 | Stealth-cover geometry, consequence-led anime comedy, and two compact ordered-object studies | [Daily case file](cases/daily-2026-10-11.md) |
+| Daily verified — 2026-10-12 | Stateful product-choice continuity and two compact material/progress transformations | [Daily case file](cases/daily-2026-10-12.md) |
 
 ## Reusable patterns
+
+- For product-choice scenes, name fixed object locations, preserve hand ownership, and distinguish touching down from releasing so the final choice becomes an irreversible state.
+- For tool-driven surface transformations, define the trail as a concrete replacement material and use a return pass to create a causally motivated contrast.
+- For progressive reveals, bind light, sound or another visible variable to measurable completion of the physical action.
 
 - For stealth scenes, define the threat's legal route, require proof of real cover before closest approach, and make exposure conditional on a measurable objective.
 - For consequence-led visual comedy, lock the prop ledger, escalate one effect from one physical source, and reserve a silent reaction beat after the mechanism is proven.
