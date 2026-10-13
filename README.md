@@ -77,8 +77,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-10 | Continuous drone-to-road skateboard camera choreography | [Daily case file](cases/daily-2026-10-10.md) |
 | Daily verified — 2026-10-11 | Stealth-cover geometry, consequence-led anime comedy, and two compact ordered-object studies | [Daily case file](cases/daily-2026-10-11.md) |
 | Daily verified — 2026-10-12 | Stateful product-choice continuity and two compact material/progress transformations | [Daily case file](cases/daily-2026-10-12.md) |
+| Daily verified — 2026-10-13 | Ordered two-door suspense, network-wide impact propagation, and boundary-controlled fluid diffusion | [Daily case file](cases/daily-2026-10-13.md) |
 
 ## Reusable patterns
+
+- For offscreen-threat escapes, lock the spatial ledger and closure order; prove the remote barrier closed before return, and imply danger through gaze, breath, suppressed sound and small material evidence.
+- For network-wide reactions, separate one exact trigger from the full propagation scope and pair local contact with a distinct sensory cue.
+- For contained fluid effects, define both the transformed region and a protected negative region so diffusion has a measurable boundary.
 
 - For product-choice scenes, name fixed object locations, preserve hand ownership, and distinguish touching down from releasing so the final choice becomes an irreversible state.
 - For tool-driven surface transformations, define the trail as a concrete replacement material and use a return pass to create a causally motivated contrast.
