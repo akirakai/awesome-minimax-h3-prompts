@@ -78,8 +78,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-11 | Stealth-cover geometry, consequence-led anime comedy, and two compact ordered-object studies | [Daily case file](cases/daily-2026-10-11.md) |
 | Daily verified — 2026-10-12 | Stateful product-choice continuity and two compact material/progress transformations | [Daily case file](cases/daily-2026-10-12.md) |
 | Daily verified — 2026-10-13 | Ordered two-door suspense, network-wide impact propagation, and boundary-controlled fluid diffusion | [Daily case file](cases/daily-2026-10-13.md) |
+| Daily verified — 2026-10-14 | Localized stair-hazard continuity and two compact source/mechanism-control studies | [Daily case file](cases/daily-2026-10-14.md) |
 
 ## Reusable patterns
+
+- For localized hazards, define named support positions, one legal escape vector, one failed component and one bounded impact zone; preserve debris and support state after contact.
+- For trail-based material effects, assign one moving source and constrain path, landing and terminal form; avoid exact counts when they destabilize continuous motion.
+- For familiar mechanical props, suppress default sound explicitly when silence matters, and lock replacement subject count, attachment point and motion.
 
 - For offscreen-threat escapes, lock the spatial ledger and closure order; prove the remote barrier closed before return, and imply danger through gaze, breath, suppressed sound and small material evidence.
 - For network-wide reactions, separate one exact trigger from the full propagation scope and pair local contact with a distinct sensory cue.
@@ -356,5 +361,11 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-06](cases/daily-2026-10-06.md)
 - [Daily verified cases — 2026-10-07](cases/daily-2026-10-07.md)
 - [Daily verified cases — 2026-10-08](cases/daily-2026-10-08.md)
+- [Daily verified cases — 2026-10-09](cases/daily-2026-10-09.md)
+- [Daily verified cases — 2026-10-10](cases/daily-2026-10-10.md)
+- [Daily verified cases — 2026-10-11](cases/daily-2026-10-11.md)
+- [Daily verified cases — 2026-10-12](cases/daily-2026-10-12.md)
+- [Daily verified cases — 2026-10-13](cases/daily-2026-10-13.md)
+- [Daily verified cases — 2026-10-14](cases/daily-2026-10-14.md)
 
-Last collected: 2026-10-08
+Last collected: 2026-10-14
