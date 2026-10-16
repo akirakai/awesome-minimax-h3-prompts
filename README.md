@@ -80,8 +80,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-13 | Ordered two-door suspense, network-wide impact propagation, and boundary-controlled fluid diffusion | [Daily case file](cases/daily-2026-10-13.md) |
 | Daily verified — 2026-10-14 | Localized stair-hazard continuity and two compact source/mechanism-control studies | [Daily case file](cases/daily-2026-10-14.md) |
 | Daily verified — 2026-10-15 | Fixed-support transformation, prerequisite-led persistent shape, and ordered reveal mechanics | [Daily case file](cases/daily-2026-10-15.md) |
+| Daily verified — 2026-10-16 | Interruption-to-performance recovery, pace-controlled cyclic motion, and ordered frost topology | [Daily case file](cases/daily-2026-10-16.md) |
 
 ## Reusable patterns
+
+- For interruption-to-performance reversals, lock route, support and hand ownership; prove impact through an ordered sensory chain, then reveal support contact before converting recovery momentum into choreography.
+- For cyclic motion that must continue through the shot, specify pace rather than a repetition count so the model does not treat the count as a terminal stop.
+- For radial material growth, describe topology as center, spokes and connecting rings so one coherent structure emerges instead of simultaneous unrelated cracks.
 
 - For single-object transformations, lock support hardware and all unrelated motion so only the intended material region changes.
 - For final-form transformations, require release from the original support before shape change and explicitly preserve the terminal silhouette for the rest of the clip.
@@ -373,5 +378,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-13](cases/daily-2026-10-13.md)
 - [Daily verified cases — 2026-10-14](cases/daily-2026-10-14.md)
 - [Daily verified cases — 2026-10-15](cases/daily-2026-10-15.md)
+- [Daily verified cases — 2026-10-16](cases/daily-2026-10-16.md)
 
-Last collected: 2026-10-15.
+Last collected: 2026-10-16.
