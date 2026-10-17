@@ -81,8 +81,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-14 | Localized stair-hazard continuity and two compact source/mechanism-control studies | [Daily case file](cases/daily-2026-10-14.md) |
 | Daily verified — 2026-10-15 | Fixed-support transformation, prerequisite-led persistent shape, and ordered reveal mechanics | [Daily case file](cases/daily-2026-10-15.md) |
 | Daily verified — 2026-10-16 | Interruption-to-performance recovery, pace-controlled cyclic motion, and ordered frost topology | [Daily case file](cases/daily-2026-10-16.md) |
+| Daily verified — 2026-10-17 | Endpoint-specific fog emission, persistent reveal state, and contact-triggered ordered fracture topology | [Daily case file](cases/daily-2026-10-17.md) |
 
 ## Reusable patterns
+
+- For endpoint-specific effects on multi-part props, name the semantic source precisely and keep all visually similar outlets inactive.
+- For persistent stage reveals, give the mechanism a one-way terminal state, then lock performer count, location and one readable action.
+- For contact-triggered fracture growth, separate the single impact, tool exit and ordered topology construction into distinct states.
 
 - For interruption-to-performance reversals, lock route, support and hand ownership; prove impact through an ordered sensory chain, then reveal support contact before converting recovery momentum into choreography.
 - For cyclic motion that must continue through the shot, specify pace rather than a repetition count so the model does not treat the count as a terminal stop.
@@ -379,5 +384,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-14](cases/daily-2026-10-14.md)
 - [Daily verified cases — 2026-10-15](cases/daily-2026-10-15.md)
 - [Daily verified cases — 2026-10-16](cases/daily-2026-10-16.md)
+- [Daily verified cases — 2026-10-17](cases/daily-2026-10-17.md)
 
-Last collected: 2026-10-16.
+Last collected: 2026-10-17.
