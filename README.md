@@ -82,8 +82,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-15 | Fixed-support transformation, prerequisite-led persistent shape, and ordered reveal mechanics | [Daily case file](cases/daily-2026-10-15.md) |
 | Daily verified — 2026-10-16 | Interruption-to-performance recovery, pace-controlled cyclic motion, and ordered frost topology | [Daily case file](cases/daily-2026-10-16.md) |
 | Daily verified — 2026-10-17 | Endpoint-specific fog emission, persistent reveal state, and contact-triggered ordered fracture topology | [Daily case file](cases/daily-2026-10-17.md) |
+| Daily verified — 2026-10-18 | Object-free motion substitution and anatomy-hiding silhouette design | [Daily case file](cases/daily-2026-10-18.md) |
 
 ## Reusable patterns
+
+- When a familiar mechanism must stay absent, describe the movement, timing reference and spatial anchor without naming the unwanted object.
+- When a hidden character is anatomically unreliable, let one simple covering own the visible silhouette and prompt only its external motion.
 
 - For endpoint-specific effects on multi-part props, name the semantic source precisely and keep all visually similar outlets inactive.
 - For persistent stage reveals, give the mechanism a one-way terminal state, then lock performer count, location and one readable action.
@@ -385,5 +389,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-15](cases/daily-2026-10-15.md)
 - [Daily verified cases — 2026-10-16](cases/daily-2026-10-16.md)
 - [Daily verified cases — 2026-10-17](cases/daily-2026-10-17.md)
+- [Daily verified cases — 2026-10-18](cases/daily-2026-10-18.md)
 
-Last collected: 2026-10-17.
+Last collected: 2026-10-18.
