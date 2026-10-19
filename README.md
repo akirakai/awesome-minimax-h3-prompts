@@ -83,8 +83,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-16 | Interruption-to-performance recovery, pace-controlled cyclic motion, and ordered frost topology | [Daily case file](cases/daily-2026-10-16.md) |
 | Daily verified — 2026-10-17 | Endpoint-specific fog emission, persistent reveal state, and contact-triggered ordered fracture topology | [Daily case file](cases/daily-2026-10-17.md) |
 | Daily verified — 2026-10-18 | Object-free motion substitution and anatomy-hiding silhouette design | [Daily case file](cases/daily-2026-10-18.md) |
+| Daily verified — 2026-10-19 | Sound-proxied invisible movement and position-timed serial reveals | [Daily case file](cases/daily-2026-10-19.md) |
 
 ## Reusable patterns
+
+- For invisible movement, let spatially ordered sound carry the route and reserve one visible terminal state as proof of arrival.
+- For small-group serial transformations, assign each subject one named position and one short time slot instead of asking the model to track a longer count.
 
 - When a familiar mechanism must stay absent, describe the movement, timing reference and spatial anchor without naming the unwanted object.
 - When a hidden character is anatomically unreliable, let one simple covering own the visible silhouette and prompt only its external motion.
@@ -390,5 +394,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-16](cases/daily-2026-10-16.md)
 - [Daily verified cases — 2026-10-17](cases/daily-2026-10-17.md)
 - [Daily verified cases — 2026-10-18](cases/daily-2026-10-18.md)
+- [Daily verified cases — 2026-10-19](cases/daily-2026-10-19.md)
 
-Last collected: 2026-10-18.
+Last collected: 2026-10-19.
