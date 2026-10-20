@@ -84,8 +84,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-17 | Endpoint-specific fog emission, persistent reveal state, and contact-triggered ordered fracture topology | [Daily case file](cases/daily-2026-10-17.md) |
 | Daily verified — 2026-10-18 | Object-free motion substitution and anatomy-hiding silhouette design | [Daily case file](cases/daily-2026-10-18.md) |
 | Daily verified — 2026-10-19 | Sound-proxied invisible movement and position-timed serial reveals | [Daily case file](cases/daily-2026-10-19.md) |
+| Daily verified — 2026-10-20 | Single-cycle fog emission, mechanism-gated light release, and in-motion material transformation | [Daily case file](cases/daily-2026-10-20.md) |
 
 ## Reusable patterns
+
+- For subtle one-shot emissions, name one physical source, one cycle and one pace; separate any secondary motion by position and time.
+- For hidden-source reveals, complete a familiar release mechanism first, then constrain the effect to the newly opened path, one direction and one instance.
+- For fluid-shape transformations, bind the new silhouette to the descent phase, use strong figure–ground contrast, and transform before diffusion destroys coherence.
 
 - For invisible movement, let spatially ordered sound carry the route and reserve one visible terminal state as proof of arrival.
 - For small-group serial transformations, assign each subject one named position and one short time slot instead of asking the model to track a longer count.
@@ -395,5 +400,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-17](cases/daily-2026-10-17.md)
 - [Daily verified cases — 2026-10-18](cases/daily-2026-10-18.md)
 - [Daily verified cases — 2026-10-19](cases/daily-2026-10-19.md)
+- [Daily verified cases — 2026-10-20](cases/daily-2026-10-20.md)
 
-Last collected: 2026-10-19.
+Last collected: 2026-10-20.
