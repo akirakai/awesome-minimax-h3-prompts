@@ -85,8 +85,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-18 | Object-free motion substitution and anatomy-hiding silhouette design | [Daily case file](cases/daily-2026-10-18.md) |
 | Daily verified — 2026-10-19 | Sound-proxied invisible movement and position-timed serial reveals | [Daily case file](cases/daily-2026-10-19.md) |
 | Daily verified — 2026-10-20 | Single-cycle fog emission, mechanism-gated light release, and in-motion material transformation | [Daily case file](cases/daily-2026-10-20.md) |
+| Daily verified — 2026-10-21 | Source-bound transformations, negative-space pour design, minimal wake-up acting, and audio-led dance prompting | [Daily case file](cases/daily-2026-10-21.md) |
 
 ## Reusable patterns
+
+- For material-to-agent transformations, define the new agents as the original material and convert along one direction so nothing arrives from off-source.
+- For poured-image formation, make the silhouette emerge from the stream and use exposed underlying liquid as protected negative space.
+- For restrained wake-up acting, close the resting pose first and reserve one eye opening as the only state change.
+- For music-driven performance, let audio own timing and ask only for identity, dynamic dancing and beat synchronization before adding choreography.
 
 - For subtle one-shot emissions, name one physical source, one cycle and one pace; separate any secondary motion by position and time.
 - For hidden-source reveals, complete a familiar release mechanism first, then constrain the effect to the newly opened path, one direction and one instance.
@@ -401,5 +407,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-18](cases/daily-2026-10-18.md)
 - [Daily verified cases — 2026-10-19](cases/daily-2026-10-19.md)
 - [Daily verified cases — 2026-10-20](cases/daily-2026-10-20.md)
+- [Daily verified cases — 2026-10-21](cases/daily-2026-10-21.md)
 
-Last collected: 2026-10-20.
+Last collected: 2026-10-21.
