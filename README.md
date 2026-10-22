@@ -86,8 +86,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-19 | Sound-proxied invisible movement and position-timed serial reveals | [Daily case file](cases/daily-2026-10-19.md) |
 | Daily verified — 2026-10-20 | Single-cycle fog emission, mechanism-gated light release, and in-motion material transformation | [Daily case file](cases/daily-2026-10-20.md) |
 | Daily verified — 2026-10-21 | Source-bound transformations, negative-space pour design, minimal wake-up acting, and audio-led dance prompting | [Daily case file](cases/daily-2026-10-21.md) |
+| Daily verified — 2026-10-22 | Tool-exit state control, bounded micro-weather, behavior-by-analogy, mechanism-proof geometry, and a 13-segment audio-timed MV pack | [Daily case file](cases/daily-2026-10-22.md) |
 
 ## Reusable patterns
+
+- For constructed characters, finish the tool action and remove the tool before revealing features or starting independent movement.
+- For bounded weather effects, define the only source, exact effect count, destination and stop time.
+- When a material's default physics are wrong, attach it to a familiar behavioral analogy such as “fog like milk.”
+- For small mechanisms, use occlusion and camera angle to prove engagement before triggering the visible result.
+- For multi-segment music videos, assign each reference one authority, reset a local clock per segment, and schedule action, camera and music inside the same windows.
 
 - For material-to-agent transformations, define the new agents as the original material and convert along one direction so nothing arrives from off-source.
 - For poured-image formation, make the silhouette emerge from the stream and use exposed underlying liquid as protected negative space.
@@ -408,5 +415,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-19](cases/daily-2026-10-19.md)
 - [Daily verified cases — 2026-10-20](cases/daily-2026-10-20.md)
 - [Daily verified cases — 2026-10-21](cases/daily-2026-10-21.md)
+- [Daily verified cases — 2026-10-22](cases/daily-2026-10-22.md)
 
-Last collected: 2026-10-21.
+Last collected: 2026-10-22.
