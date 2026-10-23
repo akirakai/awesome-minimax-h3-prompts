@@ -87,8 +87,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-20 | Single-cycle fog emission, mechanism-gated light release, and in-motion material transformation | [Daily case file](cases/daily-2026-10-20.md) |
 | Daily verified — 2026-10-21 | Source-bound transformations, negative-space pour design, minimal wake-up acting, and audio-led dance prompting | [Daily case file](cases/daily-2026-10-21.md) |
 | Daily verified — 2026-10-22 | Tool-exit state control, bounded micro-weather, behavior-by-analogy, mechanism-proof geometry, and a 13-segment audio-timed MV pack | [Daily case file](cases/daily-2026-10-22.md) |
+| Daily verified — 2026-10-23 | Storyboard-authoritative beauty direction, support-locked transformation, directional nested reveal, analogy-driven motion, and timeboxed two-character staging | [Daily case file](cases/daily-2026-10-23.md) |
 
 ## Reusable patterns
+
+- For storyboard-driven beauty films, assign shot order to the board, identity to the reference, and motion/materials to the text; reserve typography for post-production.
+- For support-bound transformations, explicitly keep the subject attached and combine silhouette change with one measurable surface-state change.
+- For nested reveals, complete one directional opening mechanism before exposing the impossible interior.
+- For unfamiliar subjects, borrow a familiar action grammar and lock orientation across descent, contact and withdrawal.
+- For multi-character continuity, close each timed interaction as a concrete end state and reuse that state explicitly at the next segment start.
 
 - For constructed characters, finish the tool action and remove the tool before revealing features or starting independent movement.
 - For bounded weather effects, define the only source, exact effect count, destination and stop time.
@@ -416,5 +423,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-20](cases/daily-2026-10-20.md)
 - [Daily verified cases — 2026-10-21](cases/daily-2026-10-21.md)
 - [Daily verified cases — 2026-10-22](cases/daily-2026-10-22.md)
+- [Daily verified cases — 2026-10-23](cases/daily-2026-10-23.md)
 
-Last collected: 2026-10-22.
+Last collected: 2026-10-23.
