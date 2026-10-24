@@ -88,8 +88,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-21 | Source-bound transformations, negative-space pour design, minimal wake-up acting, and audio-led dance prompting | [Daily case file](cases/daily-2026-10-21.md) |
 | Daily verified — 2026-10-22 | Tool-exit state control, bounded micro-weather, behavior-by-analogy, mechanism-proof geometry, and a 13-segment audio-timed MV pack | [Daily case file](cases/daily-2026-10-22.md) |
 | Daily verified — 2026-10-23 | Storyboard-authoritative beauty direction, support-locked transformation, directional nested reveal, analogy-driven motion, and timeboxed two-character staging | [Daily case file](cases/daily-2026-10-23.md) |
+| Daily verified — 2026-10-24 | In-place identity-preserving fruit transformation | [Daily case file](cases/daily-2026-10-24.md) |
 
 ## Reusable patterns
+
+- For object-to-object replacement, define the new form as the original object, keep it in the same place, and make the transformation happen in place to preserve registration and shape.
 
 - For storyboard-driven beauty films, assign shot order to the board, identity to the reference, and motion/materials to the text; reserve typography for post-production.
 - For support-bound transformations, explicitly keep the subject attached and combine silhouette change with one measurable surface-state change.
@@ -424,5 +427,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-21](cases/daily-2026-10-21.md)
 - [Daily verified cases — 2026-10-22](cases/daily-2026-10-22.md)
 - [Daily verified cases — 2026-10-23](cases/daily-2026-10-23.md)
+- [Daily verified cases — 2026-10-24](cases/daily-2026-10-24.md)
 
-Last collected: 2026-10-23.
+Last collected: 2026-10-24.
