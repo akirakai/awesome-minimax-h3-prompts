@@ -89,8 +89,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-22 | Tool-exit state control, bounded micro-weather, behavior-by-analogy, mechanism-proof geometry, and a 13-segment audio-timed MV pack | [Daily case file](cases/daily-2026-10-22.md) |
 | Daily verified — 2026-10-23 | Storyboard-authoritative beauty direction, support-locked transformation, directional nested reveal, analogy-driven motion, and timeboxed two-character staging | [Daily case file](cases/daily-2026-10-23.md) |
 | Daily verified — 2026-10-24 | In-place identity-preserving fruit transformation | [Daily case file](cases/daily-2026-10-24.md) |
+| Daily verified — 2026-10-25 | Directional imprinting, partial-feature reveal, and silhouette-led identity simplification | [Daily case file](cases/daily-2026-10-25.md) |
 
 ## Reusable patterns
+
+- For physical imprints, bind one contact to one persistent mark and align the mark with the tool's entry direction.
+- For hidden characters, reveal a closed list of partial features in order and require them to belong to the same unseen subject.
+- When exact identity is unnecessary, use a high-contrast silhouette and a closed terminal pose to remove unstable face, fur and texture variables.
 
 - For object-to-object replacement, define the new form as the original object, keep it in the same place, and make the transformation happen in place to preserve registration and shape.
 
@@ -428,5 +433,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-22](cases/daily-2026-10-22.md)
 - [Daily verified cases — 2026-10-23](cases/daily-2026-10-23.md)
 - [Daily verified cases — 2026-10-24](cases/daily-2026-10-24.md)
+- [Daily verified cases — 2026-10-25](cases/daily-2026-10-25.md)
 
-Last collected: 2026-10-24.
+Last collected: 2026-10-25.
