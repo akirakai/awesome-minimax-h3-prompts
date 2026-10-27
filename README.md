@@ -90,8 +90,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-23 | Storyboard-authoritative beauty direction, support-locked transformation, directional nested reveal, analogy-driven motion, and timeboxed two-character staging | [Daily case file](cases/daily-2026-10-23.md) |
 | Daily verified — 2026-10-24 | In-place identity-preserving fruit transformation | [Daily case file](cases/daily-2026-10-24.md) |
 | Daily verified — 2026-10-25 | Directional imprinting, partial-feature reveal, and silhouette-led identity simplification | [Daily case file](cases/daily-2026-10-25.md) |
+| Daily verified — 2026-10-27 | Identity-authority segmentation, two-phase street advertising, compact multilingual T2VA, and irreversible food-process prompting | [Daily case file](cases/daily-2026-10-27.md) |
 
 ## Reusable patterns
+
+- For multi-segment identity continuity, let the image own identity only, let text rebuild scene and camera, and repeat the identity contract in every independent generation.
+- For longer ads assembled from short clips, use shared reference sheets, give each timed beat one product action, camera move and sound cluster, and make the previous segment's terminal state the next segment's opening state.
+- For short multilingual dialogue, quote the exact line and pronunciation requirement while keeping camera, action and ambience deliberately sparse.
+- For food-process films, write an irreversible material-state chain and attach one distinct sound to each transition; record observed output format separately from requested format.
 
 - For physical imprints, bind one contact to one persistent mark and align the mark with the tool's entry direction.
 - For hidden characters, reveal a closed list of partial features in order and require them to belong to the same unseen subject.
@@ -434,5 +440,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-23](cases/daily-2026-10-23.md)
 - [Daily verified cases — 2026-10-24](cases/daily-2026-10-24.md)
 - [Daily verified cases — 2026-10-25](cases/daily-2026-10-25.md)
+- [Daily verified cases — 2026-10-27](cases/daily-2026-10-27.md)
 
-Last collected: 2026-10-25.
+Last collected: 2026-10-27.
