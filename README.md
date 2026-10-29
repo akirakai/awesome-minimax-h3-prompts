@@ -92,8 +92,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-25 | Directional imprinting, partial-feature reveal, and silhouette-led identity simplification | [Daily case file](cases/daily-2026-10-25.md) |
 | Daily verified — 2026-10-27 | Identity-authority segmentation, two-phase street advertising, compact multilingual T2VA, and irreversible food-process prompting | [Daily case file](cases/daily-2026-10-27.md) |
 | Daily verified — 2026-10-28 | Prerequisite-gated shadow effects, volumetric cut reveals, and connected-body flow diagnosis | [Daily case file](cases/daily-2026-10-28.md) |
+| Daily verified — 2026-10-29 | Constant-vector acting, attention-relay suspense, bounded fill, one-source growth, and single-contact radial displacement | [Daily case file](cases/daily-2026-10-29.md) |
 
 ## Reusable patterns
+
+- For a wind-driven performance, declare one scene-wide vector, a closed route and fixed landmarks; apply the same direction to hair, cloth, dust and body recovery.
+- To imply an unseen threat, let a visible animal establish the sightline and body tension first, then synchronize the human reaction without revealing the target.
+- For bounded filling, initialize material inside the outline, permit only center-out spread and define the raised edge as the terminal boundary.
+- For organic growth, expose one origin and one ordered path from seed through support geometry to terminal fruit.
+- For radial liquid effects, start the tool over the source, allow one contact and restrict all color motion to outward displacement.
 
 - For multi-segment identity continuity, let the image own identity only, let text rebuild scene and camera, and repeat the identity contract in every independent generation.
 - For longer ads assembled from short clips, use shared reference sheets, give each timed beat one product action, camera move and sound cluster, and make the previous segment's terminal state the next segment's opening state.
@@ -448,4 +455,4 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-27](cases/daily-2026-10-27.md)
 - [Daily verified cases — 2026-10-28](cases/daily-2026-10-28.md)
 
-Last collected: 2026-10-28.
+Last collected: 2026-10-29.
