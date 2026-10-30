@@ -93,8 +93,16 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-27 | Identity-authority segmentation, two-phase street advertising, compact multilingual T2VA, and irreversible food-process prompting | [Daily case file](cases/daily-2026-10-27.md) |
 | Daily verified — 2026-10-28 | Prerequisite-gated shadow effects, volumetric cut reveals, and connected-body flow diagnosis | [Daily case file](cases/daily-2026-10-28.md) |
 | Daily verified — 2026-10-29 | Constant-vector acting, attention-relay suspense, bounded fill, one-source growth, and single-contact radial displacement | [Daily case file](cases/daily-2026-10-29.md) |
+| Daily verified — 2026-10-30 | Persistent prop states, animal-led routes, offscreen dialogue staging, slow dissolution, and single-outlet gravity flow | [Daily case file](cases/daily-2026-10-30.md) |
 
 ## Reusable patterns
+
+- For recovery scenes, keep discarded props in the foreground, let voluntary animal contact precede the lift, and prove each support transfer during the rise.
+- For animal-led route discovery, lock human left/right identity, let the animal cross and look back, and gate entry on a mechanically proven opening.
+- For offscreen dialogue, reserve visible empty space, maintain an explicit route, and contrast a loud public beat with a quiet private close.
+- When instantaneous physics fail, replace the burst with slow in-place dissolution and require both complete disappearance and a persistent transferred state.
+- For viscous release, define one crack as the sole outlet and let gravity build a source-connected pool.
+
 
 - For a wind-driven performance, declare one scene-wide vector, a closed route and fixed landmarks; apply the same direction to hair, cloth, dust and body recovery.
 - To imply an unseen threat, let a visible animal establish the sightline and body tension first, then synchronize the human reaction without revealing the target.
@@ -454,5 +462,7 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-25](cases/daily-2026-10-25.md)
 - [Daily verified cases — 2026-10-27](cases/daily-2026-10-27.md)
 - [Daily verified cases — 2026-10-28](cases/daily-2026-10-28.md)
+- [Daily verified cases — 2026-10-29](cases/daily-2026-10-29.md)
+- [Daily verified cases — 2026-10-30](cases/daily-2026-10-30.md)
 
-Last collected: 2026-10-29.
+Last collected: 2026-10-30.
