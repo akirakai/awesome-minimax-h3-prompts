@@ -94,8 +94,18 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-28 | Prerequisite-gated shadow effects, volumetric cut reveals, and connected-body flow diagnosis | [Daily case file](cases/daily-2026-10-28.md) |
 | Daily verified — 2026-10-29 | Constant-vector acting, attention-relay suspense, bounded fill, one-source growth, and single-contact radial displacement | [Daily case file](cases/daily-2026-10-29.md) |
 | Daily verified — 2026-10-30 | Persistent prop states, animal-led routes, offscreen dialogue staging, slow dissolution, and single-outlet gravity flow | [Daily case file](cases/daily-2026-10-30.md) |
+| Daily verified — 2026-10-31 | Directional paper chains, hand-owned selfie continuity, momentum-led acting, source-limited fog, curvature-aware tool paths, and agent-free radial patterning | [Daily case file](cases/daily-2026-10-31.md) |
 
 ## Reusable patterns
+
+- For repeated connected objects, replace brittle exact counts with one directional construction rule and a measurable frame-spanning terminal state.
+- For continuous selfie staging, assign permanent hand ownership, close the route spatially, and make viewpoint changes through motivated physical wipes.
+- For walk-to-stop acting, keep geography global, let eyes lead attention, and prove momentum settling through body, clothing, jewelry and a small camera correction.
+- For vehicle reactions, let suspension initiate the event, map every support transfer, and delay emotional release until the physical chain settles.
+- For openings with effects, lock hinge side and legal direction first, then allow one named material through one exit path.
+- For tool interaction, describe the path relative to the receiving surface's curvature or topology rather than only screen-space direction.
+- For pattern formation, pre-place the source material, remove unnecessary agents, and restrict the transformation to one direction.
+
 
 - For recovery scenes, keep discarded props in the foreground, let voluntary animal contact precede the lift, and prove each support transfer during the rise.
 - For animal-led route discovery, lock human left/right identity, let the animal cross and look back, and gate entry on a mechanically proven opening.
@@ -464,5 +474,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-28](cases/daily-2026-10-28.md)
 - [Daily verified cases — 2026-10-29](cases/daily-2026-10-29.md)
 - [Daily verified cases — 2026-10-30](cases/daily-2026-10-30.md)
+- [Daily verified cases — 2026-10-31](cases/daily-2026-10-31.md)
 
-Last collected: 2026-10-30.
+Last collected: 2026-10-31.
