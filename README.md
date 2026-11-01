@@ -95,8 +95,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-29 | Constant-vector acting, attention-relay suspense, bounded fill, one-source growth, and single-contact radial displacement | [Daily case file](cases/daily-2026-10-29.md) |
 | Daily verified — 2026-10-30 | Persistent prop states, animal-led routes, offscreen dialogue staging, slow dissolution, and single-outlet gravity flow | [Daily case file](cases/daily-2026-10-30.md) |
 | Daily verified — 2026-10-31 | Directional paper chains, hand-owned selfie continuity, momentum-led acting, source-limited fog, curvature-aware tool paths, and agent-free radial patterning | [Daily case file](cases/daily-2026-10-31.md) |
+| Daily verified — 2026-11-01 | Wind-led farewell and waiting performances, a controlled standing jump, and two hidden-cat interaction studies | [Daily case file](cases/daily-2026-11-01.md) |
 
 ## Reusable patterns
+
+- For short athletic demonstrations, fix one action point, write the support-to-torso force chain, and delay interaction with an offscreen partner until the landing settles.
+- To show private anticipation without the expected arrival, lock landmarks and route, lead expressions with the eyes, and use one prop pivot plus small cloth/dust inertia.
+- For departure grief, keep vehicle and platform geometry parallel, bind dialogue to whistle/step/stop triggers, and resolve emotion only after all momentum settles.
+- For hidden-animal actions, expose one body part, use a foreground object as permanent occlusion, and make entry and exit share the same route.
+- For suspended props, name one contact mechanism, restrict travel to one vector, and define the terminal state beyond the frame.
 
 - For repeated connected objects, replace brittle exact counts with one directional construction rule and a measurable frame-spanning terminal state.
 - For continuous selfie staging, assign permanent hand ownership, close the route spatially, and make viewpoint changes through motivated physical wipes.
@@ -475,5 +482,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-29](cases/daily-2026-10-29.md)
 - [Daily verified cases — 2026-10-30](cases/daily-2026-10-30.md)
 - [Daily verified cases — 2026-10-31](cases/daily-2026-10-31.md)
+- [Daily verified cases — 2026-11-01](cases/daily-2026-11-01.md)
 
-Last collected: 2026-10-31.
+Last collected: 2026-11-01.
