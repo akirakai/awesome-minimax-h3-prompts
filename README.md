@@ -96,8 +96,17 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-30 | Persistent prop states, animal-led routes, offscreen dialogue staging, slow dissolution, and single-outlet gravity flow | [Daily case file](cases/daily-2026-10-30.md) |
 | Daily verified — 2026-10-31 | Directional paper chains, hand-owned selfie continuity, momentum-led acting, source-limited fog, curvature-aware tool paths, and agent-free radial patterning | [Daily case file](cases/daily-2026-10-31.md) |
 | Daily verified — 2026-11-01 | Wind-led farewell and waiting performances, a controlled standing jump, and two hidden-cat interaction studies | [Daily case file](cases/daily-2026-11-01.md) |
+| Daily verified — 2026-11-02 | Wreck-led tactical reversal, POV creature threat, two-character fire comedy, environment-only suspense, and three compact material/tool-control studies | [Daily case file](cases/daily-2026-11-02.md) |
 
 ## Reusable patterns
+
+- For sentimental-to-tactical reversals, establish one meaningful contact point, let a new impact convert it into directional evidence, and keep the attacker offscreen.
+- For direct-to-camera creature acting, lock center and identity, use asymmetric hand gestures, and prove viewer constraint through controlled retreat and lens-edge contact.
+- For two-character effect comedy, lock role positions and effect direction, model the effect as explicit source states, and keep all food and prop changes on a persistent ledger.
+- For unseen threats, declare one global environmental vector, reveal danger through a local violation, and let the protagonist physically stop the POV from turning.
+- For removable coverings, define one connected object, one extraction vector and an unchanged clean substrate.
+- For directional tools, specify handle orientation, receiving-surface orientation, accumulated material ahead and a persistent cleared state behind.
+- For static cooking transformations, freeze count and geometry and request only a monotonic moisture, color or volume change.
 
 - For short athletic demonstrations, fix one action point, write the support-to-torso force chain, and delay interaction with an offscreen partner until the landing settles.
 - To show private anticipation without the expected arrival, lock landmarks and route, lead expressions with the eyes, and use one prop pivot plus small cloth/dust inertia.
@@ -483,5 +492,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-30](cases/daily-2026-10-30.md)
 - [Daily verified cases — 2026-10-31](cases/daily-2026-10-31.md)
 - [Daily verified cases — 2026-11-01](cases/daily-2026-11-01.md)
+- [Daily verified cases — 2026-11-02](cases/daily-2026-11-02.md)
 
-Last collected: 2026-11-01.
+Last collected: 2026-11-02.
