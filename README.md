@@ -97,8 +97,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-10-31 | Directional paper chains, hand-owned selfie continuity, momentum-led acting, source-limited fog, curvature-aware tool paths, and agent-free radial patterning | [Daily case file](cases/daily-2026-10-31.md) |
 | Daily verified — 2026-11-01 | Wind-led farewell and waiting performances, a controlled standing jump, and two hidden-cat interaction studies | [Daily case file](cases/daily-2026-11-01.md) |
 | Daily verified — 2026-11-02 | Wreck-led tactical reversal, POV creature threat, two-character fire comedy, environment-only suspense, and three compact material/tool-control studies | [Daily case file](cases/daily-2026-11-02.md) |
+| Daily verified — 2026-11-03 | Validation-gated cockpit ignition, axis-locked corridor combat, and response-led human–animal interaction | [Daily case file](cases/daily-2026-11-03.md) |
 
 ## Reusable patterns
+
+- For first-use interfaces, bind each control to one observable response, require validation before the next input, and route the final machine force through every restraint.
+- For dense corridor action, maintain one global travel axis, assign each attacker a legal entry zone, and inherit body state, weapon ownership and force direction across cuts.
+- For response-led human–animal interaction, let the animal initiate, let the human alter one controllable cue, and close on a shared stable state.
 
 - For sentimental-to-tactical reversals, establish one meaningful contact point, let a new impact convert it into directional evidence, and keep the attacker offscreen.
 - For direct-to-camera creature acting, lock center and identity, use asymmetric hand gestures, and prove viewer constraint through controlled retreat and lens-edge contact.
@@ -493,5 +498,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-10-31](cases/daily-2026-10-31.md)
 - [Daily verified cases — 2026-11-01](cases/daily-2026-11-01.md)
 - [Daily verified cases — 2026-11-02](cases/daily-2026-11-02.md)
+- [Daily verified cases — 2026-11-03](cases/daily-2026-11-03.md)
 
-Last collected: 2026-11-02.
+Last collected: 2026-11-03.
