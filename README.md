@@ -98,9 +98,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-01 | Wind-led farewell and waiting performances, a controlled standing jump, and two hidden-cat interaction studies | [Daily case file](cases/daily-2026-11-01.md) |
 | Daily verified — 2026-11-02 | Wreck-led tactical reversal, POV creature threat, two-character fire comedy, environment-only suspense, and three compact material/tool-control studies | [Daily case file](cases/daily-2026-11-02.md) |
 | Daily verified — 2026-11-03 | Validation-gated cockpit ignition, axis-locked corridor combat, and response-led human–animal interaction | [Daily case file](cases/daily-2026-11-03.md) |
+| Daily verified — 2026-11-04 | Prop-led action and relationship continuity, layered single-take magic, compact tool/state studies, and mannequin-guided motion transfer | [Daily case file](cases/daily-2026-11-04.md) |
 
 ## Reusable patterns
 
+- For irreversible prop comedy, lock subject, carrier and prop ownership and trajectory, then let one physical trigger produce one permanent result.
+- For offscreen-partner POV, define camera distance and path as the absent character's body, then bind gaze, retreat and lens contact to that route.
+- For layered magic, define every effect's source, surface path, occlusion and collapse order before compressing it into one final core.
+- For reference-motion transfer, make the proxy video authoritative for motion and camera, the character sheet authoritative for identity, and text authoritative for environment and exclusions.
+- For slow in-place processes and compact tool studies, lock camera and geometry, ask for one monotonic state change, and pre-place required tools in frame.
 - For first-use interfaces, bind each control to one observable response, require validation before the next input, and route the final machine force through every restraint.
 - For dense corridor action, maintain one global travel axis, assign each attacker a legal entry zone, and inherit body state, weapon ownership and force direction across cuts.
 - For response-led human–animal interaction, let the animal initiate, let the human alter one controllable cue, and close on a shared stable state.
@@ -499,5 +505,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-01](cases/daily-2026-11-01.md)
 - [Daily verified cases — 2026-11-02](cases/daily-2026-11-02.md)
 - [Daily verified cases — 2026-11-03](cases/daily-2026-11-03.md)
+- [Daily verified cases — 2026-11-04](cases/daily-2026-11-04.md)
 
-Last collected: 2026-11-03.
+Last collected: 2026-11-04.
