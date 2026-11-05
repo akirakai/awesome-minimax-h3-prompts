@@ -99,9 +99,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-02 | Wreck-led tactical reversal, POV creature threat, two-character fire comedy, environment-only suspense, and three compact material/tool-control studies | [Daily case file](cases/daily-2026-11-02.md) |
 | Daily verified — 2026-11-03 | Validation-gated cockpit ignition, axis-locked corridor combat, and response-led human–animal interaction | [Daily case file](cases/daily-2026-11-03.md) |
 | Daily verified — 2026-11-04 | Prop-led action and relationship continuity, layered single-take magic, compact tool/state studies, and mannequin-guided motion transfer | [Daily case file](cases/daily-2026-11-04.md) |
+| Daily verified — 2026-11-05 | Causally triggered performance shifts, negative-space searching, axis-locked threat paths, and single-hand POV intimacy | [Daily case file](cases/daily-2026-11-05.md) |
 
 ## Reusable patterns
 
+- To turn staged performance into authenticity, establish the polished behavior first, then let one visible physical force interrupt it and keep the unplanned reaction after the director cue.
+- For negative-space mystery, never name or show the missing object; freeze the inventory and let repeated checks, eye paths and one environmental sound carry the unresolved search.
+- For offscreen projectile threats, predefine source, path, impact point and global axis, then make every camera cut inherit those coordinates and delay sound when distance matters.
+- For intimate POV without revealing the partner, treat the camera and one consistently entering hand as the same body, and bind every emotional turn to a visible touch, gaze, breath or fabric response.
 - For irreversible prop comedy, lock subject, carrier and prop ownership and trajectory, then let one physical trigger produce one permanent result.
 - For offscreen-partner POV, define camera distance and path as the absent character's body, then bind gaze, retreat and lens contact to that route.
 - For layered magic, define every effect's source, surface path, occlusion and collapse order before compressing it into one final core.
@@ -506,5 +511,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-02](cases/daily-2026-11-02.md)
 - [Daily verified cases — 2026-11-03](cases/daily-2026-11-03.md)
 - [Daily verified cases — 2026-11-04](cases/daily-2026-11-04.md)
+- [Daily verified cases — 2026-11-05](cases/daily-2026-11-05.md)
 
-Last collected: 2026-11-04.
+Last collected: 2026-11-05.
