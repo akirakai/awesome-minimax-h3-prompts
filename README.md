@@ -100,8 +100,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-03 | Validation-gated cockpit ignition, axis-locked corridor combat, and response-led human–animal interaction | [Daily case file](cases/daily-2026-11-03.md) |
 | Daily verified — 2026-11-04 | Prop-led action and relationship continuity, layered single-take magic, compact tool/state studies, and mannequin-guided motion transfer | [Daily case file](cases/daily-2026-11-04.md) |
 | Daily verified — 2026-11-05 | Causally triggered performance shifts, negative-space searching, axis-locked threat paths, and single-hand POV intimacy | [Daily case file](cases/daily-2026-11-05.md) |
+| Daily verified — 2026-11-06 | Continuous river blocking, faceless cover-to-cover standoff, persistent-damage magical cleanup, and eight single-run prompt/video templates | [Daily case file](cases/daily-2026-11-06.md) |
 
 ## Reusable patterns
+
+- For dialogue-led continuous blocking, keep the environment axis fixed and make every line follow a visible gaze, breath, contact, stop or step.
+- For faceless standoffs, predefine cover points and legal peeks, reveal only the weapon silhouette, and close on reciprocal aim without exposing the opponent.
+- For non-healing cleanup effects, maintain an irreversible damage ledger and restrict magic to extraction, cutting, suspension, displacement, burning and sealing.
+- For reusable H3 templates, separate the timestamped visual timeline, physical sound bed and non-diegetic score, while matching every cut and cue to an achievable event.
 
 - To turn staged performance into authenticity, establish the polished behavior first, then let one visible physical force interrupt it and keep the unplanned reaction after the director cue.
 - For negative-space mystery, never name or show the missing object; freeze the inventory and let repeated checks, eye paths and one environmental sound carry the unresolved search.
@@ -512,5 +518,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-03](cases/daily-2026-11-03.md)
 - [Daily verified cases — 2026-11-04](cases/daily-2026-11-04.md)
 - [Daily verified cases — 2026-11-05](cases/daily-2026-11-05.md)
+- [Daily verified cases — 2026-11-06](cases/daily-2026-11-06.md)
 
-Last collected: 2026-11-05.
+Last collected: 2026-11-06.
