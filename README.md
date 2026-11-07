@@ -101,8 +101,16 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-04 | Prop-led action and relationship continuity, layered single-take magic, compact tool/state studies, and mannequin-guided motion transfer | [Daily case file](cases/daily-2026-11-04.md) |
 | Daily verified — 2026-11-05 | Causally triggered performance shifts, negative-space searching, axis-locked threat paths, and single-hand POV intimacy | [Daily case file](cases/daily-2026-11-05.md) |
 | Daily verified — 2026-11-06 | Continuous river blocking, faceless cover-to-cover standoff, persistent-damage magical cleanup, and eight single-run prompt/video templates | [Daily case file](cases/daily-2026-11-06.md) |
+| Daily verified — 2026-11-07 | Stateful support release, three-attempt surf learning, compact prop comedy, destruction-built typography, offscreen dialogue, closed-source power escalation, and director-led pose discovery | [Daily case file](cases/daily-2026-11-07.md) |
 
 ## Reusable patterns
+
+- For support-release performances, write the exact order in which weight leaves joints and transfers into furniture, and keep compression and displaced soft objects persistent after contact.
+- For repeated-attempt action, complete each failed cycle, preserve its physical evidence, and let the final route be visibly chosen from that evidence.
+- For destruction-built typography, use one continuous material pipeline from source object to debris, force field, readable letters and irreversible dispersal.
+- For offscreen dialogue comedy, bind the invisible speaker to one eyeline and camera position while every response follows a visible prop check or blocking change.
+- For closed-system power sequences, derive every phase from the same sources and reverse the full field into one declared core before the final release.
+- For director-led fashion blocking, make each spoken cue follow the model's physical choice, then delay final eye contact until the body path and camera position are settled.
 
 - For dialogue-led continuous blocking, keep the environment axis fixed and make every line follow a visible gaze, breath, contact, stop or step.
 - For faceless standoffs, predefine cover points and legal peeks, reveal only the weapon silhouette, and close on reciprocal aim without exposing the opponent.
@@ -519,5 +527,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-04](cases/daily-2026-11-04.md)
 - [Daily verified cases — 2026-11-05](cases/daily-2026-11-05.md)
 - [Daily verified cases — 2026-11-06](cases/daily-2026-11-06.md)
+- [Daily verified cases — 2026-11-07](cases/daily-2026-11-07.md)
 
-Last collected: 2026-11-06.
+Last collected: 2026-11-07.
