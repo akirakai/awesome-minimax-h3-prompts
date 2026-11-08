@@ -102,8 +102,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-05 | Causally triggered performance shifts, negative-space searching, axis-locked threat paths, and single-hand POV intimacy | [Daily case file](cases/daily-2026-11-05.md) |
 | Daily verified — 2026-11-06 | Continuous river blocking, faceless cover-to-cover standoff, persistent-damage magical cleanup, and eight single-run prompt/video templates | [Daily case file](cases/daily-2026-11-06.md) |
 | Daily verified — 2026-11-07 | Stateful support release, three-attempt surf learning, compact prop comedy, destruction-built typography, offscreen dialogue, closed-source power escalation, and director-led pose discovery | [Daily case file](cases/daily-2026-11-07.md) |
+| Daily verified — 2026-11-08 | Persistent multi-target damage and sealed-prop dialogue continuity | [Daily case file](cases/daily-2026-11-08.md) |
 
 ## Reusable patterns
+
+- For multi-target transformation action, assign every opponent a fixed spatial slot, make each weapon form produce one irreversible damage state, and preserve all prior damage through the final execution beat.
+- For compact two-person dialogue, lock seating, speaking order, listener mouth state and prop ownership; make each line follow a visible action and let one unchanged prop verify continuity at the final lens turn.
 
 - For support-release performances, write the exact order in which weight leaves joints and transfers into furniture, and keep compression and displaced soft objects persistent after contact.
 - For repeated-attempt action, complete each failed cycle, preserve its physical evidence, and let the final route be visibly chosen from that evidence.
@@ -528,5 +532,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-05](cases/daily-2026-11-05.md)
 - [Daily verified cases — 2026-11-06](cases/daily-2026-11-06.md)
 - [Daily verified cases — 2026-11-07](cases/daily-2026-11-07.md)
+- [Daily verified cases — 2026-11-08](cases/daily-2026-11-08.md)
 
-Last collected: 2026-11-07.
+Last collected: 2026-11-08.
