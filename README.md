@@ -103,8 +103,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-06 | Continuous river blocking, faceless cover-to-cover standoff, persistent-damage magical cleanup, and eight single-run prompt/video templates | [Daily case file](cases/daily-2026-11-06.md) |
 | Daily verified — 2026-11-07 | Stateful support release, three-attempt surf learning, compact prop comedy, destruction-built typography, offscreen dialogue, closed-source power escalation, and director-led pose discovery | [Daily case file](cases/daily-2026-11-07.md) |
 | Daily verified — 2026-11-08 | Persistent multi-target damage and sealed-prop dialogue continuity | [Daily case file](cases/daily-2026-11-08.md) |
+| Daily verified — 2026-11-09 | Target-led skating, offscreen rejection comedy, body-driven ink, delayed mechanical synchronization, product-state verification, and stationary cooking progression | [Daily case file](cases/daily-2026-11-09.md) |
 
 ## Reusable patterns
+
+- For target-led locomotion, keep one distant object in a fixed spatial quadrant and let its shadow, gaze target, braking path and final composition all inherit that location.
+- For offscreen rejection comedy, make the camera the absent partner, preserve the interrupted body state, then convert the emotional turn into one irreversible soft-prop change.
+- For human–machine synchronization, let the body lead and propagate each gesture through shoulder, elbow, wrist and fingers with a fixed delay, overshoot and hydraulic recovery.
+- For product-state verification, write every cap, seal or fastener as an explicit finite-state sequence and require the final hand release to prove that the closure persists.
+- For difficult cooking loops, replace repeated tool motion with a monotonic local transformation at fixed contact points.
 
 - For multi-target transformation action, assign every opponent a fixed spatial slot, make each weapon form produce one irreversible damage state, and preserve all prior damage through the final execution beat.
 - For compact two-person dialogue, lock seating, speaking order, listener mouth state and prop ownership; make each line follow a visible action and let one unchanged prop verify continuity at the final lens turn.
@@ -533,5 +540,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-06](cases/daily-2026-11-06.md)
 - [Daily verified cases — 2026-11-07](cases/daily-2026-11-07.md)
 - [Daily verified cases — 2026-11-08](cases/daily-2026-11-08.md)
+- [Daily verified cases — 2026-11-09](cases/daily-2026-11-09.md)
 
-Last collected: 2026-11-08.
+Last collected: 2026-11-09.
