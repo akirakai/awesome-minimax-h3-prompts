@@ -104,8 +104,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-07 | Stateful support release, three-attempt surf learning, compact prop comedy, destruction-built typography, offscreen dialogue, closed-source power escalation, and director-led pose discovery | [Daily case file](cases/daily-2026-11-07.md) |
 | Daily verified — 2026-11-08 | Persistent multi-target damage and sealed-prop dialogue continuity | [Daily case file](cases/daily-2026-11-08.md) |
 | Daily verified — 2026-11-09 | Target-led skating, offscreen rejection comedy, body-driven ink, delayed mechanical synchronization, product-state verification, and stationary cooking progression | [Daily case file](cases/daily-2026-11-09.md) |
+| Daily verified — 2026-11-10 | Closed-source magic compression, mechanically causal skating, rear-hemisphere longboarding, and endpoint-bounded wax flow | [Daily case file](cases/daily-2026-11-10.md) |
 
 ## Reusable patterns
+
+- For closed-ledger VFX, derive every layer from already visible scene sources, give each a path and endpoint, compress the full system inward, and make the final impact the only legal disruption.
+- For fast lifestyle motion, let edge changes, cross steps, slides and braking drive particles, clothing, breath, expression and camera speed on the same causal clock.
+- For rear-only movement films, define a legal camera hemisphere and permanent left/right environmental anchors, then express emotion through glances, wind and weight transfer without crossing to the front.
+- For compact material motion, specify one moving unit, one surface, one direction and one stopping boundary so the change cannot spread into adjacent geometry.
 
 - For target-led locomotion, keep one distant object in a fixed spatial quadrant and let its shadow, gaze target, braking path and final composition all inherit that location.
 - For offscreen rejection comedy, make the camera the absent partner, preserve the interrupted body state, then convert the emotional turn into one irreversible soft-prop change.
@@ -541,5 +547,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-07](cases/daily-2026-11-07.md)
 - [Daily verified cases — 2026-11-08](cases/daily-2026-11-08.md)
 - [Daily verified cases — 2026-11-09](cases/daily-2026-11-09.md)
+- [Daily verified cases — 2026-11-10](cases/daily-2026-11-10.md)
 
-Last collected: 2026-11-09.
+Last collected: 2026-11-10.
