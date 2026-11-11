@@ -105,9 +105,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-08 | Persistent multi-target damage and sealed-prop dialogue continuity | [Daily case file](cases/daily-2026-11-08.md) |
 | Daily verified — 2026-11-09 | Target-led skating, offscreen rejection comedy, body-driven ink, delayed mechanical synchronization, product-state verification, and stationary cooking progression | [Daily case file](cases/daily-2026-11-09.md) |
 | Daily verified — 2026-11-10 | Closed-source magic compression, mechanically causal skating, rear-hemisphere longboarding, and endpoint-bounded wax flow | [Daily case file](cases/daily-2026-11-10.md) |
+| Daily verified — 2026-11-11 | Source-bound butterfly magic, ordered sunlight recovery, and single-axis icicle growth | [Daily case file](cases/daily-2026-11-11.md) |
 
 ## Reusable patterns
 
+- For source-bound traveling magic, define one carrier, one ordered route and one local response per waypoint; let every light, particle and body reaction occur only after the carrier arrives, then convert motion into one stable end state.
+- For sequential environmental change, divide the target into ordered adjacent zones and allow only one zone to update at a time so the transformation retains a visible front.
+- For unstable growth, remove branching choices by specifying fixed attachment points, one axis and one legal direction.
 - For closed-ledger VFX, derive every layer from already visible scene sources, give each a path and endpoint, compress the full system inward, and make the final impact the only legal disruption.
 - For fast lifestyle motion, let edge changes, cross steps, slides and braking drive particles, clothing, breath, expression and camera speed on the same causal clock.
 - For rear-only movement films, define a legal camera hemisphere and permanent left/right environmental anchors, then express emotion through glances, wind and weight transfer without crossing to the front.
@@ -548,5 +552,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-08](cases/daily-2026-11-08.md)
 - [Daily verified cases — 2026-11-09](cases/daily-2026-11-09.md)
 - [Daily verified cases — 2026-11-10](cases/daily-2026-11-10.md)
+- [Daily verified cases — 2026-11-11](cases/daily-2026-11-11.md)
 
-Last collected: 2026-11-10.
+Last collected: 2026-11-11.
