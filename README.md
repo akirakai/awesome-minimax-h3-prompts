@@ -106,9 +106,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-09 | Target-led skating, offscreen rejection comedy, body-driven ink, delayed mechanical synchronization, product-state verification, and stationary cooking progression | [Daily case file](cases/daily-2026-11-09.md) |
 | Daily verified — 2026-11-10 | Closed-source magic compression, mechanically causal skating, rear-hemisphere longboarding, and endpoint-bounded wax flow | [Daily case file](cases/daily-2026-11-10.md) |
 | Daily verified — 2026-11-11 | Source-bound butterfly magic, ordered sunlight recovery, and single-axis icicle growth | [Daily case file](cases/daily-2026-11-11.md) |
+| Daily verified — 2026-11-12 | In-place melting, direction-locked weather, growth-only fire, and chained 60-second Ref2VA continuity | [Daily case file](cases/daily-2026-11-12.md) |
 
 ## Reusable patterns
 
+- For in-place melting, hold the container and material location fixed, remove tool interaction, and describe many pieces becoming one smooth surface as a single monotonic topology change.
+- For soft weather motion, specify a screen-space source edge, crossing point and destination direction instead of relying on a generic verb such as drifting.
+- For difficult process initiation, begin from an already-active state and animate only the desired scalar change, forbidding new hands, fuel or objects.
+- For long Ref2VA sequences, reuse the same identity references in every segment while passing a short audiovisual tail forward to transfer pose, location, motion and sound.
 - For source-bound traveling magic, define one carrier, one ordered route and one local response per waypoint; let every light, particle and body reaction occur only after the carrier arrives, then convert motion into one stable end state.
 - For sequential environmental change, divide the target into ordered adjacent zones and allow only one zone to update at a time so the transformation retains a visible front.
 - For unstable growth, remove branching choices by specifying fixed attachment points, one axis and one legal direction.
@@ -553,5 +558,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-09](cases/daily-2026-11-09.md)
 - [Daily verified cases — 2026-11-10](cases/daily-2026-11-10.md)
 - [Daily verified cases — 2026-11-11](cases/daily-2026-11-11.md)
+- [Daily verified cases — 2026-11-12](cases/daily-2026-11-12.md)
 
-Last collected: 2026-11-11.
+Last collected: 2026-11-12.
