@@ -107,9 +107,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-10 | Closed-source magic compression, mechanically causal skating, rear-hemisphere longboarding, and endpoint-bounded wax flow | [Daily case file](cases/daily-2026-11-10.md) |
 | Daily verified — 2026-11-11 | Source-bound butterfly magic, ordered sunlight recovery, and single-axis icicle growth | [Daily case file](cases/daily-2026-11-11.md) |
 | Daily verified — 2026-11-12 | In-place melting, direction-locked weather, growth-only fire, and chained 60-second Ref2VA continuity | [Daily case file](cases/daily-2026-11-12.md) |
+| Daily verified — 2026-11-13 | Tool-free broiler caramelization with a monotonic surface-state chain | [Daily case file](cases/daily-2026-11-13.md) |
 
 ## Reusable patterns
 
+- When a held tool is unstable, replace it with a stationary environmental mechanism that produces the same result; pre-place the material, lock the camera and container, and describe one monotonic state chain.
 - For in-place melting, hold the container and material location fixed, remove tool interaction, and describe many pieces becoming one smooth surface as a single monotonic topology change.
 - For soft weather motion, specify a screen-space source edge, crossing point and destination direction instead of relying on a generic verb such as drifting.
 - For difficult process initiation, begin from an already-active state and animate only the desired scalar change, forbidding new hands, fuel or objects.
@@ -559,5 +561,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-10](cases/daily-2026-11-10.md)
 - [Daily verified cases — 2026-11-11](cases/daily-2026-11-11.md)
 - [Daily verified cases — 2026-11-12](cases/daily-2026-11-12.md)
+- [Daily verified cases — 2026-11-13](cases/daily-2026-11-13.md)
 
-Last collected: 2026-11-12.
+Last collected: 2026-11-13.
