@@ -108,9 +108,15 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-11 | Source-bound butterfly magic, ordered sunlight recovery, and single-axis icicle growth | [Daily case file](cases/daily-2026-11-11.md) |
 | Daily verified — 2026-11-12 | In-place melting, direction-locked weather, growth-only fire, and chained 60-second Ref2VA continuity | [Daily case file](cases/daily-2026-11-12.md) |
 | Daily verified — 2026-11-13 | Tool-free broiler caramelization with a monotonic surface-state chain | [Daily case file](cases/daily-2026-11-13.md) |
+| Daily verified — 2026-11-14 | Exact 30-shot pose ledgers, water-mediated hesitation, offscreen-count surf progression, a controlled orbit diagnostic, and tool-free bread scoring | [Daily case file](cases/daily-2026-11-14.md) |
 
 ## Reusable patterns
 
+- For hard-cut pose montages, enumerate a closed shot ledger, start each shot with the new pose already established, alternate framing scale, and defer frame rejection and rhythm to a later editing pass.
+- For hesitation around a physical boundary, freeze actor zones and require contact with water, steam, spray or another force before each reaction or advance.
+- For offscreen-partner staging, bind the voice to a fixed camera-relative position and let an interrupted cue trigger visible locomotion; use environmental depth changes to prove progress.
+- For orbit stability diagnostics, specify a closed camera path and constant subject scale, then pair wide and tight identity references; report residual wobble as a limitation rather than overstating the setup as a fix.
+- For material changes after cutting, begin with the score already present, remove the tool and animate only the irreversible opening, rising or browning response.
 - When a held tool is unstable, replace it with a stationary environmental mechanism that produces the same result; pre-place the material, lock the camera and container, and describe one monotonic state chain.
 - For in-place melting, hold the container and material location fixed, remove tool interaction, and describe many pieces becoming one smooth surface as a single monotonic topology change.
 - For soft weather motion, specify a screen-space source edge, crossing point and destination direction instead of relying on a generic verb such as drifting.
@@ -563,4 +569,4 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-12](cases/daily-2026-11-12.md)
 - [Daily verified cases — 2026-11-13](cases/daily-2026-11-13.md)
 
-Last collected: 2026-11-13.
+Last collected: 2026-11-14.
