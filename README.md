@@ -109,9 +109,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-12 | In-place melting, direction-locked weather, growth-only fire, and chained 60-second Ref2VA continuity | [Daily case file](cases/daily-2026-11-12.md) |
 | Daily verified — 2026-11-13 | Tool-free broiler caramelization with a monotonic surface-state chain | [Daily case file](cases/daily-2026-11-13.md) |
 | Daily verified — 2026-11-14 | Exact 30-shot pose ledgers, water-mediated hesitation, offscreen-count surf progression, a controlled orbit diagnostic, and tool-free bread scoring | [Daily case file](cases/daily-2026-11-14.md) |
+| Daily verified — 2026-11-15 | Contact-led single-take acting, camera-as-intruder staging, dialogue-controlled beach movement, and single-vector partial-subject entry | [Daily case file](cases/daily-2026-11-15.md) |
 
 ## Reusable patterns
 
+- For long single takes, schedule one physical contact and one delayed recovery per beat; use footprints, elastic reeds, pendants or cloth settling as visible state checks.
+- For first-person intruder scenes, give the camera body-like reactions—retreat, recoil, tilt and recentring—while limiting the subject to a legal partial orbit and reflection path.
+- For offscreen-guided walk-and-talk scenes, bind each dialogue turn to one locomotion or camera change and retain fixed environmental anchors across the entire route.
+- For partial-subject entrances, specify one component, one frame edge and one legal motion vector; avoid asking the model to invent an unnecessary full identity.
 - For hard-cut pose montages, enumerate a closed shot ledger, start each shot with the new pose already established, alternate framing scale, and defer frame rejection and rhythm to a later editing pass.
 - For hesitation around a physical boundary, freeze actor zones and require contact with water, steam, spray or another force before each reaction or advance.
 - For offscreen-partner staging, bind the voice to a fixed camera-relative position and let an interrupted cue trigger visible locomotion; use environmental depth changes to prove progress.
@@ -569,4 +574,4 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-12](cases/daily-2026-11-12.md)
 - [Daily verified cases — 2026-11-13](cases/daily-2026-11-13.md)
 
-Last collected: 2026-11-14.
+Last collected: 2026-11-15.
