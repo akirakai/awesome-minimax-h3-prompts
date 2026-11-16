@@ -110,8 +110,14 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-13 | Tool-free broiler caramelization with a monotonic surface-state chain | [Daily case file](cases/daily-2026-11-13.md) |
 | Daily verified — 2026-11-14 | Exact 30-shot pose ledgers, water-mediated hesitation, offscreen-count surf progression, a controlled orbit diagnostic, and tool-free bread scoring | [Daily case file](cases/daily-2026-11-14.md) |
 | Daily verified — 2026-11-15 | Contact-led single-take acting, camera-as-intruder staging, dialogue-controlled beach movement, and single-vector partial-subject entry | [Daily case file](cases/daily-2026-11-15.md) |
+| Daily verified — 2026-11-16 | Eye-led micro-acting, closed-system fluid accidents, source-bound costume magic, directional material change, and irreversible frame exits | [Daily case file](cases/daily-2026-11-16.md) |
 
 ## Reusable patterns
+
+- For micro-expression acting, define a reaction order from pupils and lashes through lips and jaw to shoulders and hands; let camera rebound and cloth motion follow the same physical cause.
+- For multi-source fluid accidents, name every source, contact, collision, path, mixture and terminal state; attach body reactions only after the corresponding hot, cold or impact trigger.
+- For costume-bound magic, close the legal source list to existing colour anchors, keep every effect attached to those objects, and define one visible route into the final combined shape.
+- For minimal material changes, specify one start boundary, one legal vector and one endpoint while immobilizing the object; for exits, add an explicit no-return terminal condition.
 
 - For long single takes, schedule one physical contact and one delayed recovery per beat; use footprints, elastic reeds, pendants or cloth settling as visible state checks.
 - For first-person intruder scenes, give the camera body-like reactions—retreat, recoil, tilt and recentring—while limiting the subject to a legal partial orbit and reflection path.
@@ -573,5 +579,8 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-11](cases/daily-2026-11-11.md)
 - [Daily verified cases — 2026-11-12](cases/daily-2026-11-12.md)
 - [Daily verified cases — 2026-11-13](cases/daily-2026-11-13.md)
+- [Daily verified cases — 2026-11-14](cases/daily-2026-11-14.md)
+- [Daily verified cases — 2026-11-15](cases/daily-2026-11-15.md)
+- [Daily verified cases — 2026-11-16](cases/daily-2026-11-16.md)
 
-Last collected: 2026-11-15.
+Last collected: 2026-11-16.
