@@ -111,8 +111,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-14 | Exact 30-shot pose ledgers, water-mediated hesitation, offscreen-count surf progression, a controlled orbit diagnostic, and tool-free bread scoring | [Daily case file](cases/daily-2026-11-14.md) |
 | Daily verified — 2026-11-15 | Contact-led single-take acting, camera-as-intruder staging, dialogue-controlled beach movement, and single-vector partial-subject entry | [Daily case file](cases/daily-2026-11-15.md) |
 | Daily verified — 2026-11-16 | Eye-led micro-acting, closed-system fluid accidents, source-bound costume magic, directional material change, and irreversible frame exits | [Daily case file](cases/daily-2026-11-16.md) |
+| Daily verified — 2026-11-17 | Support-led intimate acting with an offscreen listener, dialogue-bound weight transfer, and camera rebound | [Daily case file](cases/daily-2026-11-17.md) |
 
 ## Reusable patterns
+
+- For intimate seated or reclining performances, choreograph support ownership before expression: name the active palm, elbow, waist and shoulder at each beat, then let camera recoil, cloth, cables, breathing and dialogue react to those load transfers.
 
 - For micro-expression acting, define a reaction order from pupils and lashes through lips and jaw to shoulders and hands; let camera rebound and cloth motion follow the same physical cause.
 - For multi-source fluid accidents, name every source, contact, collision, path, mixture and terminal state; attach body reactions only after the corresponding hot, cold or impact trigger.
@@ -582,5 +585,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-14](cases/daily-2026-11-14.md)
 - [Daily verified cases — 2026-11-15](cases/daily-2026-11-15.md)
 - [Daily verified cases — 2026-11-16](cases/daily-2026-11-16.md)
+- [Daily verified cases — 2026-11-17](cases/daily-2026-11-17.md)
 
-Last collected: 2026-11-16.
+Last collected: 2026-11-17.
