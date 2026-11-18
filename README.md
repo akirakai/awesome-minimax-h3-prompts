@@ -112,8 +112,12 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-15 | Contact-led single-take acting, camera-as-intruder staging, dialogue-controlled beach movement, and single-vector partial-subject entry | [Daily case file](cases/daily-2026-11-15.md) |
 | Daily verified — 2026-11-16 | Eye-led micro-acting, closed-system fluid accidents, source-bound costume magic, directional material change, and irreversible frame exits | [Daily case file](cases/daily-2026-11-16.md) |
 | Daily verified — 2026-11-17 | Support-led intimate acting with an offscreen listener, dialogue-bound weight transfer, and camera rebound | [Daily case file](cases/daily-2026-11-17.md) |
+| Daily verified — 2026-11-18 | Voice-separated reverse-shot dialogue, restrained black-and-white farewell, and a compact temporal physics edit | [Daily case file](cases/daily-2026-11-18.md) |
 
 ## Reusable patterns
+
+- For multi-speaker dialogue, give every speaker an exclusive voice profile and shot ownership, bind each line to a visible action, and postpone the shared frame until the alternating close-ups are complete.
+- For source clips that already contain the desired physical mechanism, request one bounded temporal edit and leave subject, framing and material behavior under source authority.
 
 - For intimate seated or reclining performances, choreograph support ownership before expression: name the active palm, elbow, waist and shoulder at each beat, then let camera recoil, cloth, cables, breathing and dialogue react to those load transfers.
 
@@ -586,5 +590,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-15](cases/daily-2026-11-15.md)
 - [Daily verified cases — 2026-11-16](cases/daily-2026-11-16.md)
 - [Daily verified cases — 2026-11-17](cases/daily-2026-11-17.md)
+- [Daily verified cases — 2026-11-18](cases/daily-2026-11-18.md)
 
-Last collected: 2026-11-17.
+Last collected: 2026-11-18.
