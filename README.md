@@ -112,10 +112,13 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-15 | Contact-led single-take acting, camera-as-intruder staging, dialogue-controlled beach movement, and single-vector partial-subject entry | [Daily case file](cases/daily-2026-11-15.md) |
 | Daily verified — 2026-11-16 | Eye-led micro-acting, closed-system fluid accidents, source-bound costume magic, directional material change, and irreversible frame exits | [Daily case file](cases/daily-2026-11-16.md) |
 | Daily verified — 2026-11-17 | Support-led intimate acting with an offscreen listener, dialogue-bound weight transfer, and camera rebound | [Daily case file](cases/daily-2026-11-17.md) |
-| Daily verified — 2026-11-18 | Voice-separated reverse-shot dialogue, restrained black-and-white farewell, and a compact temporal physics edit | [Daily case file](cases/daily-2026-11-18.md) |\n| Daily verified — 2026-11-19 | Wind-vector beauty performance and prop-state-driven seaside interruption | [Daily case file](cases/daily-2026-11-19.md) |
+| Daily verified — 2026-11-18 | Voice-separated reverse-shot dialogue, restrained black-and-white farewell, and a compact temporal physics edit | [Daily case file](cases/daily-2026-11-18.md) |
+| Daily verified — 2026-11-19 | Wind-vector beauty performance and prop-state-driven seaside interruption | [Daily case file](cases/daily-2026-11-19.md) |
 
 ## Reusable patterns
 
+- For slow environmental performance, use one wind or light vector as the shared clock for plants, cloth, hair, shadows and particles, and delay body and expression changes until after those physical cues.
+- For quiet attention shifts, carry one prop through an irreversible state chain and name the gaze-focus distance at every beat; let support posture follow the object event instead of substituting dialogue.
 - For multi-speaker dialogue, give every speaker an exclusive voice profile and shot ownership, bind each line to a visible action, and postpone the shared frame until the alternating close-ups are complete.
 - For source clips that already contain the desired physical mechanism, request one bounded temporal edit and leave subject, framing and material behavior under source authority.
 
@@ -591,5 +594,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-16](cases/daily-2026-11-16.md)
 - [Daily verified cases — 2026-11-17](cases/daily-2026-11-17.md)
 - [Daily verified cases — 2026-11-18](cases/daily-2026-11-18.md)
+- [Daily verified cases — 2026-11-19](cases/daily-2026-11-19.md)
 
-Last collected: 2026-11-18.
+Last collected: 2026-11-19.
