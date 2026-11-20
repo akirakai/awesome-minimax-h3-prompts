@@ -113,7 +113,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-16 | Eye-led micro-acting, closed-system fluid accidents, source-bound costume magic, directional material change, and irreversible frame exits | [Daily case file](cases/daily-2026-11-16.md) |
 | Daily verified — 2026-11-17 | Support-led intimate acting with an offscreen listener, dialogue-bound weight transfer, and camera rebound | [Daily case file](cases/daily-2026-11-17.md) |
 | Daily verified — 2026-11-18 | Voice-separated reverse-shot dialogue, restrained black-and-white farewell, and a compact temporal physics edit | [Daily case file](cases/daily-2026-11-18.md) |
-| Daily verified — 2026-11-19 | Wind-vector beauty performance and prop-state-driven seaside interruption | [Daily case file](cases/daily-2026-11-19.md) |
+| Daily verified — 2026-11-19 | Wind-vector beauty performance and prop-state-driven seaside interruption | [Daily case file](cases/daily-2026-11-19.md) |\n| Daily verified — 2026-11-20 | Intermediate-keyframe reconstruction and a local H3-to-LTX short-film pipeline | [Daily case file](cases/daily-2026-11-20.md) |
 
 ## Reusable patterns
 
@@ -594,6 +594,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-16](cases/daily-2026-11-16.md)
 - [Daily verified cases — 2026-11-17](cases/daily-2026-11-17.md)
 - [Daily verified cases — 2026-11-18](cases/daily-2026-11-18.md)
-- [Daily verified cases — 2026-11-19](cases/daily-2026-11-19.md)
+- [Daily verified cases — 2026-11-19](cases/daily-2026-11-19.md)\n- [Daily verified cases — 2026-11-20](cases/daily-2026-11-20.md)
 
-Last collected: 2026-11-19.
+Last collected: 2026-11-20.
