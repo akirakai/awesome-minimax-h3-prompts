@@ -117,9 +117,11 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-20 | Intermediate-keyframe reconstruction and a local H3-to-LTX short-film pipeline | [Daily case file](cases/daily-2026-11-20.md) |
 | Daily verified — 2026-11-22 | Attribute-scoped native Ref2VA environment replacement with preserved motion, camera and soundtrack | [Daily case file](cases/daily-2026-11-22.md) |
 | Daily verified — 2026-11-23 | Ten base-H3 tests spanning text, first/last frames, multimodal references and 2K output | [Daily case file](cases/daily-2026-11-23.md) |
+| Daily verified — 2026-11-24 | Single-shot 360° character orbit with fixed subject direction, lens, radius and speed | [Daily case file](cases/daily-2026-11-24.md) |
 
 ## Reusable patterns
 
+- For a full character orbit, define a closed camera path that returns to the starting azimuth, keep lens, radius, elevation and angular speed constant, lock the subject’s world-space direction, and explicitly forbid subject rotation, steps, cuts and zoom.
 - For multimodal reference shots, give each file exactly one named job—identity, soundtrack or camera motion—and close the transfer scope with explicit exclusions so scene content does not leak across references.
 - For native reference-video edits, assign each attribute an explicit transfer mode—fully replace environment and weather, partially modify lighting, and fully preserve motion and camera—then lock the source soundtrack unless sound is intentionally changed.
 - For intermediate-frame reconstruction, pin every repaired state at its original source timestamp, describe camera motion second by second, and time-align voice references for mouth-moving beats; first and last frames alone cannot govern the middle.
@@ -605,5 +607,6 @@ A case is included in the main collection only when:
 - [Daily verified cases — 2026-11-20](cases/daily-2026-11-20.md)
 - [Daily verified cases — 2026-11-22](cases/daily-2026-11-22.md)
 - [Daily verified cases — 2026-11-23](cases/daily-2026-11-23.md)
+- [Daily verified cases — 2026-11-24](cases/daily-2026-11-24.md)
 
-Last collected: 2026-11-23.
+Last collected: 2026-11-24.
