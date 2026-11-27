@@ -122,6 +122,7 @@ A case is included in the main collection only when:
 
 ## Reusable patterns
 
+- For dialogue-heavy acting tests, give each cut one named emotion, two or three visible facial actions and one short line; keep the camera fixed within the cut, vary vocal rhythm between cuts, and remove subtitles and music so facial motion and lip sync remain auditable.
 - For a full character orbit, define a closed camera path that returns to the starting azimuth, keep lens, radius, elevation and angular speed constant, lock the subject’s world-space direction, and explicitly forbid subject rotation, steps, cuts and zoom.
 - For multimodal reference shots, give each file exactly one named job—identity, soundtrack or camera motion—and close the transfer scope with explicit exclusions so scene content does not leak across references.
 - For native reference-video edits, assign each attribute an explicit transfer mode—fully replace environment and weather, partially modify lighting, and fully preserve motion and camera—then lock the source soundtrack unless sound is intentionally changed.
