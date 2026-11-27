@@ -118,6 +118,7 @@ A case is included in the main collection only when:
 | Daily verified — 2026-11-22 | Attribute-scoped native Ref2VA environment replacement with preserved motion, camera and soundtrack | [Daily case file](cases/daily-2026-11-22.md) |
 | Daily verified — 2026-11-23 | Ten base-H3 tests spanning text, first/last frames, multimodal references and 2K output | [Daily case file](cases/daily-2026-11-23.md) |
 | Daily verified — 2026-11-24 | Single-shot 360° character orbit with fixed subject direction, lens, radius and speed | [Daily case file](cases/daily-2026-11-24.md) |
+| Daily verified — 2026-11-27 | Six-emotion Japanese anime acting with reference-locked identity, distinct micro-expressions and short lip-synced lines | [Daily case file](cases/daily-2026-11-27.md) |
 
 ## Reusable patterns
 
